@@ -169,8 +169,8 @@ def main():
 
     date_str = datetime.datetime.utcnow().strftime("%Y-%m-%d")
     findings_path = FINDINGS_DIR / f"{date_str}.json"
-    findings_path.write_text(json.dumps(findings, indent=2, ensure_ascii=False))
-    TARGETS_FILE.write_text(json.dumps(targets, indent=2, ensure_ascii=False))
+    findings_path.write_text(json.dumps(findings, indent=2, ensure_ascii=True), encoding="utf-8")
+    TARGETS_FILE.write_text(json.dumps(targets, indent=2, ensure_ascii=True), encoding="utf-8")
     print(f"\nDone. Findings saved to {findings_path}")
 
 

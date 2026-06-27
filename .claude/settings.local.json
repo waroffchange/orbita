@@ -10,7 +10,13 @@
       "PowerShell($env:PATH = [System.Environment]::GetEnvironmentVariable\\(\"PATH\", \"Machine\"\\) + \";\" + [System.Environment]::GetEnvironmentVariable\\(\"PATH\", \"User\"\\); cd \"C:\\\\Users\\\\Batuu\\\\nous research\"; git config --global user.email \"nxteam67@gmail.com\"; git config --global user.name \"waroffchange\"; git add .; git commit -m \"Initial commit\"; gh repo create nous-research --public --source=. --remote=origin --push)",
       "WebFetch(domain:github.com)",
       "WebSearch",
-      "WebFetch(domain:hermes-agent.nousresearch.com)"
+      "WebFetch(domain:hermes-agent.nousresearch.com)",
+      "PowerShell(python --version)",
+      "PowerShell(New-Item -ItemType Directory -Force -Path \"$env:USERPROFILE\\\\.hermes\\\\competitive-intel\\\\snapshots\", \"$env:USERPROFILE\\\\.hermes\\\\competitive-intel\\\\findings\", \"$env:USERPROFILE\\\\.hermes\\\\competitive-intel\\\\reports\")",
+      "PowerShell(Get-Content \"$env:USERPROFILE\\\\.hermes\\\\competitive-intel\\\\findings\\\\2026-06-27.json\" | python -c \"import json,sys; d=json.load\\(sys.stdin\\); [print\\(f'  stars={g[\\\\\"stars\\\\\"]} delta={g[\\\\\"stars_delta\\\\\"]} commits={g[\\\\\"new_commits\\\\\"]} releases={g[\\\\\"new_releases\\\\\"]}'\\) or print\\(f'  {g[\\\\\"repo\\\\\"]}'\\) for g in d['github']]; [print\\(f'  news {n[\\\\\"url\\\\\"]}: {len\\(n[\\\\\"new_items\\\\\"]\\)} new items'\\) for n in d['news']]\")",
+      "mcp__visualize__read_me",
+      "mcp__visualize__show_widget",
+      "PowerShell(New-Item -ItemType Directory -Force -Path \"C:\\\\Users\\\\Batuu\\\\nous research\\\\.github\\\\workflows\")"
     ]
   }
 }
