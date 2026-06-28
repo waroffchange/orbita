@@ -1,54 +1,101 @@
 # Orbita
 
-A Hermes Agent skill that tracks competitor GitHub repositories and news sources, then delivers a weekly briefing to Discord.
+> Daily competitive intelligence dashboard for the [Hermes Agent](https://github.com/NousResearch/hermes-agent) ecosystem.
 
-## What it does
+Orbita tracks GitHub repositories and news sources in the AI agent space, runs daily checks via GitHub Actions, and publishes a live dashboard on Vercel — no database required.
 
-- Monitors any GitHub repo: stars, forks, new releases, recent commits
-- Monitors news/blog sources (RSS feeds or plain HTML)
-- Stores findings locally in `~/.hermes/competitive-intel/`
-- Sends a formatted weekly report to a Discord channel via webhook
-- Runs automatically every Monday at 09:00 via Hermes cron
+---
 
-## Install
+## Features
+
+- **Star & fork trends** — line charts across tracked repos over time
+- **Commit activity** — daily commit volume per repository
+- **Release tracking** — new version tags detected automatically
+- **News feed** — RSS and HTML sources scraped and surfaced daily
+- **Hermes skill** — install as a `/competitive-intel` slash command in Hermes Agent
+- **Zero database** — findings stored as JSON files, versioned in git
+
+## How it works
+
+```
+GitHub Actions (daily 07:00 UTC)
+        │
+        ▼
+  check.py runs
+  ├── GitHub API  →  stars, forks, commits, releases
+  └── RSS / HTML  →  news headlines
+        │
+        ▼
+  findings saved to dashboard/data/findings/YYYY-MM-DD.json
+        │
+        ▼
+  committed & pushed to repo
+        │
+        ▼
+  Vercel rebuilds dashboard automatically
+```
+
+## Stack
+
+| Layer | Tech |
+|-------|------|
+| Dashboard | Next.js 16, Tailwind CSS, Recharts |
+| Data collection | Python 3, GitHub API, RSS parsing |
+| Automation | GitHub Actions (cron) |
+| Hosting | Vercel |
+| Agent skill | Hermes Agent (SKILL.md) |
+
+## Hermes skill usage
 
 ```bash
-# Copy skill into Hermes skills directory
+# Install
 cp -r skills/competitive-intel ~/.hermes/skills/
 
-# First-time setup
-/competitive-intel setup
-```
-
-## Usage
-
-```
+# Add targets
 /competitive-intel add github NousResearch/hermes-agent
 /competitive-intel add github openai/openai-python
-/competitive-intel add news https://openai.com/blog/rss.xml
-/competitive-intel check          # manual check right now
-/competitive-intel report         # send report to Discord now
-/competitive-intel list           # show all tracked targets
-/competitive-intel remove <name>  # stop tracking
+/competitive-intel add news https://openai.com/news/rss.xml
+
+# Check now
+/competitive-intel check
+
+# List all targets
+/competitive-intel list
 ```
 
-## Requirements
+## Self-hosting
 
-- Hermes Agent installed
-- Discord webhook URL (Settings → Integrations → Webhooks in your Discord channel)
-- GitHub personal access token (optional, recommended for higher rate limits)
+**1. Fork this repo**
 
-## File structure
+**2. Add a GitHub secret**
+
+`GH_TOKEN` — a fine-grained personal access token with `Contents: Read & Write` on this repo (for the workflow to push findings).
+
+**3. Deploy to Vercel**
+
+- Root directory: `dashboard`
+- No environment variables needed
+
+**4. Edit targets**
+
+Edit `skills/competitive-intel/templates/targets.json` and push. The next daily run picks up the new targets automatically.
+
+## Project structure
 
 ```
-skills/competitive-intel/
-├── SKILL.md                  # Hermes skill definition
-├── scripts/
-│   ├── check.py              # Fetch & diff all targets
-│   └── report.py             # Render & send Discord report
-└── templates/
-    ├── targets.json          # Example targets config
-    └── weekly-report.md      # Report template reference
+orbita/
+├── .github/workflows/
+│   └── daily-check.yml          # runs check.py, commits findings
+├── dashboard/
+│   ├── app/                     # Next.js App Router pages
+│   ├── components/              # StarChart, RepoCards, NewsFeed, ...
+│   ├── data/findings/           # JSON findings (auto-committed daily)
+│   └── lib/                     # data loading utilities
+└── skills/competitive-intel/
+    ├── SKILL.md                 # Hermes skill definition
+    └── scripts/
+        ├── check.py             # data collection
+        └── report.py           # (optional) Discord report
 ```
 
 ## License
