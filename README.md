@@ -1,4 +1,4 @@
-# hermes-competitive-intel
+# Orbita
 
 A Hermes Agent skill that tracks competitor GitHub repositories and news sources, then delivers a weekly briefing to Discord.
 

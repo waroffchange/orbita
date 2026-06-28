@@ -16,7 +16,12 @@
       "PowerShell(Get-Content \"$env:USERPROFILE\\\\.hermes\\\\competitive-intel\\\\findings\\\\2026-06-27.json\" | python -c \"import json,sys; d=json.load\\(sys.stdin\\); [print\\(f'  stars={g[\\\\\"stars\\\\\"]} delta={g[\\\\\"stars_delta\\\\\"]} commits={g[\\\\\"new_commits\\\\\"]} releases={g[\\\\\"new_releases\\\\\"]}'\\) or print\\(f'  {g[\\\\\"repo\\\\\"]}'\\) for g in d['github']]; [print\\(f'  news {n[\\\\\"url\\\\\"]}: {len\\(n[\\\\\"new_items\\\\\"]\\)} new items'\\) for n in d['news']]\")",
       "mcp__visualize__read_me",
       "mcp__visualize__show_widget",
-      "PowerShell(New-Item -ItemType Directory -Force -Path \"C:\\\\Users\\\\Batuu\\\\nous research\\\\.github\\\\workflows\")"
+      "PowerShell(New-Item -ItemType Directory -Force -Path \"C:\\\\Users\\\\Batuu\\\\nous research\\\\.github\\\\workflows\")",
+      "PowerShell($env:PATH = [System.Environment]::GetEnvironmentVariable\\(\"PATH\", \"Machine\"\\) + \";\" + [System.Environment]::GetEnvironmentVariable\\(\"PATH\", \"User\"\\); cd \"C:\\\\Users\\\\Batuu\\\\nous research\"; git push)",
+      "PowerShell($env:PATH = [System.Environment]::GetEnvironmentVariable\\(\"PATH\", \"Machine\"\\) + \";\" + [System.Environment]::GetEnvironmentVariable\\(\"PATH\", \"User\"\\); cd \"C:\\\\Users\\\\Batuu\\\\nous research\"; gh repo rename orbita)",
+      "PowerShell($env:PATH = [System.Environment]::GetEnvironmentVariable\\(\"PATH\", \"Machine\"\\) + \";\" + [System.Environment]::GetEnvironmentVariable\\(\"PATH\", \"User\"\\); cd \"C:\\\\Users\\\\Batuu\\\\nous research\"; gh repo rename orbita --yes)",
+      "PowerShell($env:PATH = [System.Environment]::GetEnvironmentVariable\\(\"PATH\", \"Machine\"\\) + \";\" + [System.Environment]::GetEnvironmentVariable\\(\"PATH\", \"User\"\\); cd \"C:\\\\Users\\\\Batuu\\\\nous research\"; git remote set-url origin https://github.com/waroffchange/orbita.git)",
+      "PowerShell($env:PATH = [System.Environment]::GetEnvironmentVariable\\(\"PATH\", \"Machine\"\\) + \";\" + [System.Environment]::GetEnvironmentVariable\\(\"PATH\", \"User\"\\); cd \"C:\\\\Users\\\\Batuu\\\\nous research\"; git add .; git commit -m \"Rename project to Orbita\"; git push)"
     ]
   }
 }

@@ -22,7 +22,7 @@ export default function Home() {
       <header className="bg-white border-b border-gray-200 px-6 py-4">
         <div className="max-w-6xl mx-auto flex items-center justify-between">
           <div>
-            <h1 className="text-lg font-medium text-gray-900">Hermes Competitive Intel</h1>
+            <h1 className="text-lg font-medium text-gray-900">Orbita</h1>
             <p className="text-sm text-gray-500 mt-0.5">
               Daily tracking of the Hermes Agent ecosystem and competitors
             </p>

@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Hermes Competitive Intel",
+  title: "Orbita",
   description: "Daily tracking of the Hermes Agent ecosystem and competitors",
 };
 
