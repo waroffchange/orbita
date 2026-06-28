@@ -49,7 +49,7 @@ GitHub Actions (daily 07:00 UTC)
 
 ```bash
 # Install
-cp -r skills/competitive-intel ~/.hermes/skills/
+cp -r hermes/competitive-intel ~/.hermes/skills/
 
 # Add targets
 /competitive-intel add github NousResearch/hermes-agent
@@ -73,12 +73,12 @@ cp -r skills/competitive-intel ~/.hermes/skills/
 
 **3. Deploy to Vercel**
 
-- Root directory: `dashboard`
+- Root directory: `.` (repo root)
 - No environment variables needed
 
 **4. Edit targets**
 
-Edit `skills/competitive-intel/templates/targets.json` and push. The next daily run picks up the new targets automatically.
+Edit `hermes/competitive-intel/templates/targets.json` and push. The next daily run picks up the new targets automatically.
 
 ## Project structure
 
@@ -86,16 +86,18 @@ Edit `skills/competitive-intel/templates/targets.json` and push. The next daily 
 orbita/
 ├── .github/workflows/
 │   └── daily-check.yml          # runs check.py, commits findings
-├── dashboard/
-│   ├── app/                     # Next.js App Router pages
-│   ├── components/              # StarChart, RepoCards, NewsFeed, ...
-│   ├── data/findings/           # JSON findings (auto-committed daily)
-│   └── lib/                     # data loading utilities
-└── skills/competitive-intel/
-    ├── SKILL.md                 # Hermes skill definition
-    └── scripts/
-        ├── check.py             # data collection
-        └── report.py           # (optional) Discord report
+├── app/                         # Next.js App Router pages
+├── components/                  # StarChart, RepoCards, NewsFeed, ...
+├── data/findings/               # JSON findings (auto-committed daily)
+├── lib/                         # data loading utilities
+├── public/
+├── hermes/competitive-intel/
+│   ├── SKILL.md                 # Hermes skill definition
+│   └── scripts/
+│       ├── check.py             # data collection
+│       └── report.py           # (optional) Discord report
+├── package.json
+└── next.config.ts
 ```
 
 ## License
