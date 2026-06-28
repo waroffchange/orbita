@@ -2,7 +2,11 @@
 
 > Daily competitive intelligence dashboard for the [Hermes Agent](https://github.com/NousResearch/hermes-agent) ecosystem.
 
+![Orbita Dashboard](public/screenshot.webp)
+
 Orbita tracks GitHub repositories and news sources in the AI agent space, runs daily checks via GitHub Actions, and publishes a live dashboard on Vercel — no database required.
+
+**Live:** https://orbita-three-liard.vercel.app
 
 ---
 
