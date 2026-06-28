@@ -1,0 +1,89 @@
+{
+  "date": "2026-06-28T01:37:31.702344",
+  "github": [
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": 204370,
+      "stars_delta": 0,
+      "forks": 36781,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "revert(windows): roll back terminal-popup PRs #53791 #53810 #53829 (#53853)",
+      "new_releases": [
+        "v2026.6.19",
+        "v2026.6.5",
+        "v2026.5.29.2",
+        "v2026.5.29",
+        "v2026.5.28"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": [
+        {
+          "id": "NOUS BLOG",
+          "title": "NOUS BLOG",
+          "link": "https://nousresearch.com/blog",
+          "date": ""
+        },
+        {
+          "id": "Model Neuroscience: Dissecting Behavioral Change With Targeted Contrastive Neuron Attribution",
+          "title": "Model Neuroscience: Dissecting Behavioral Change With Targeted Contrastive Neuron Attribution",
+          "link": "https://nousresearch.com/blog",
+          "date": ""
+        },
+        {
+          "id": "Lighthouse Attention",
+          "title": "Lighthouse Attention",
+          "link": "https://nousresearch.com/blog",
+          "date": ""
+        },
+        {
+          "id": "Efficient pretraining with token superposition",
+          "title": "Efficient pretraining with token superposition",
+          "link": "https://nousresearch.com/blog",
+          "date": ""
+        },
+        {
+          "id": "Field Notes on Scaling MoE Expert Parallelism with DeepEP",
+          "title": "Field Notes on Scaling MoE Expert Parallelism with DeepEP",
+          "link": "https://nousresearch.com/blog",
+          "date": ""
+        },
+        {
+          "id": "NousCoder-14B: A Competitive Olympiad Programming Model",
+          "title": "NousCoder-14B: A Competitive Olympiad Programming Model",
+          "link": "https://nousresearch.com/blog",
+          "date": ""
+        },
+        {
+          "id": "Introducing Hermes 4.3: Local Intelligence Globally Trained",
+          "title": "Introducing Hermes 4.3: Local Intelligence Globally Trained",
+          "link": "https://nousresearch.com/blog",
+          "date": ""
+        },
+        {
+          "id": "tinker-atropos: An Integration Layer for the Tinker API and Atropos RL Framework",
+          "title": "tinker-atropos: An Integration Layer for the Tinker API and Atropos RL Framework",
+          "link": "https://nousresearch.com/blog",
+          "date": ""
+        },
+        {
+          "id": "The Next Phase of Psyche",
+          "title": "The Next Phase of Psyche",
+          "link": "https://nousresearch.com/blog",
+          "date": ""
+        },
+        {
+          "id": "Measuring Thinking Efficiency in Reasoning Models: The Missing Benchmark",
+          "title": "Measuring Thinking Efficiency in Reasoning Models: The Missing Benchmark",
+          "link": "https://nousresearch.com/blog",
+          "date": ""
+        }
+      ]
+    }
+  ]
+}
