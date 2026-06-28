@@ -13,8 +13,14 @@ import urllib.error
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
-DATA_DIR = Path.home() / ".hermes" / "competitive-intel"
-TARGETS_FILE = DATA_DIR / "targets.json"
+_CI = os.environ.get("CI") == "true"
+if _CI:
+    _REPO_ROOT = Path(__file__).resolve().parents[3]
+    DATA_DIR = _REPO_ROOT / "data"
+    TARGETS_FILE = _REPO_ROOT / "hermes" / "competitive-intel" / "templates" / "targets.json"
+else:
+    DATA_DIR = Path.home() / ".hermes" / "competitive-intel"
+    TARGETS_FILE = DATA_DIR / "targets.json"
 SNAPSHOTS_DIR = DATA_DIR / "snapshots"
 FINDINGS_DIR = DATA_DIR / "findings"
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
