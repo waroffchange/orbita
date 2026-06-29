@@ -59,6 +59,54 @@ export function getRepoHistory(repo: string, days = 30): RepoHistory {
   return { repo, history }
 }
 
+export function computeTrendScores(findings: DailyFindings[]): Record<string, number> {
+  const last7 = findings.slice(-7)
+  const scores: Record<string, number> = {}
+  const repos = last7.flatMap((f) => f.github.map((g) => g.repo))
+  const unique = [...new Set(repos)]
+  for (const repo of unique) {
+    let score = 0
+    for (const f of last7) {
+      const g = f.github.find((x) => x.repo === repo)
+      if (!g) continue
+      score += g.starsDelta * 0.5 + g.newCommits * 3 + g.newReleases.length * 10
+    }
+    scores[repo] = Math.round(score)
+  }
+  return scores
+}
+
+export function getWeeklySummary() {
+  const all = getAllFindings()
+  const last7 = all.slice(-7)
+  if (last7.length === 0) return null
+
+  const repoMap: Record<string, { starsDelta: number; commits: number; releases: string[] }> = {}
+  const newsMap: Record<string, number> = {}
+
+  for (const f of last7) {
+    for (const g of f.github) {
+      if (!repoMap[g.repo]) repoMap[g.repo] = { starsDelta: 0, commits: 0, releases: [] }
+      repoMap[g.repo].starsDelta += g.starsDelta
+      repoMap[g.repo].commits += g.newCommits
+      for (const r of g.newReleases) {
+        if (!repoMap[g.repo].releases.includes(r)) repoMap[g.repo].releases.push(r)
+      }
+    }
+    for (const n of f.news) {
+      newsMap[n.url] = (newsMap[n.url] ?? 0) + n.newItems.length
+    }
+  }
+
+  return {
+    from: last7[0].date.slice(0, 10),
+    to: last7[last7.length - 1].date.slice(0, 10),
+    days: last7.length,
+    repos: Object.entries(repoMap).map(([repo, data]) => ({ repo, ...data })),
+    news: Object.entries(newsMap).map(([url, count]) => ({ url, count })),
+  }
+}
+
 export function getAllRepos(): string[] {
   const latest = getLatestFindings()
   if (!latest) return []

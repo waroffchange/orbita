@@ -42,7 +42,10 @@
       "PowerShell($env:PATH = [System.Environment]::GetEnvironmentVariable\\(\"PATH\", \"Machine\"\\) + \";\" + [System.Environment]::GetEnvironmentVariable\\(\"PATH\", \"User\"\\); gh api repos/waroffchange/orbita/contents/data/findings/2026-06-28.json --jq '.content' | Out-File -Encoding ascii \"$env:TEMP\\\\findings_b64.txt\"; python -c \"import base64; d=open\\('$env:TEMP/findings_b64.txt'\\).read\\(\\).replace\\('\\\\n',''\\).strip\\(\\); print\\(base64.b64decode\\(d\\).decode\\('utf-8'\\)[:600]\\)\")",
       "PowerShell($env:PATH = [System.Environment]::GetEnvironmentVariable\\(\"PATH\", \"Machine\"\\) + \";\" + [System.Environment]::GetEnvironmentVariable\\(\"PATH\", \"User\"\\); $json = gh api \"repos/waroffchange/orbita/contents/data/findings/2026-06-28.json\" | ConvertFrom-Json; [System.Text.Encoding]::UTF8.GetString\\([System.Convert]::FromBase64String\\($json.content\\)\\) | Select-Object -First 1 | Out-String | Select-String -Pattern \".\" | Select-Object -First 20)",
       "PowerShell($env:PATH = [System.Environment]::GetEnvironmentVariable\\(\"PATH\", \"Machine\"\\) + \";\" + [System.Environment]::GetEnvironmentVariable\\(\"PATH\", \"User\"\\); cd \"C:\\\\Users\\\\Batuu\\\\nous research\"; git add lib/data.ts; git commit -m \"fix: normalize snake_case JSON keys to camelCase\"; git push)",
-      "PowerShell($env:PATH = [System.Environment]::GetEnvironmentVariable\\(\"PATH\", \"Machine\"\\) + \";\" + [System.Environment]::GetEnvironmentVariable\\(\"PATH\", \"User\"\\); cd \"C:\\\\Users\\\\Batuu\\\\nous research\"; git add .; git commit -m \"feat: dark theme, add 4 more repos and 2 news sources\"; git push)"
+      "PowerShell($env:PATH = [System.Environment]::GetEnvironmentVariable\\(\"PATH\", \"Machine\"\\) + \";\" + [System.Environment]::GetEnvironmentVariable\\(\"PATH\", \"User\"\\); cd \"C:\\\\Users\\\\Batuu\\\\nous research\"; git add .; git commit -m \"feat: dark theme, add 4 more repos and 2 news sources\"; git push)",
+      "PowerShell($env:PATH = [System.Environment]::GetEnvironmentVariable\\(\"PATH\", \"Machine\"\\) + \";\" + [System.Environment]::GetEnvironmentVariable\\(\"PATH\", \"User\"\\); Start-Sleep -Seconds 40; gh run watch 28308671901 --exit-status 2>&1)",
+      "mcp__Claude_in_Chrome__navigate",
+      "Bash(git add *)"
     ]
   }
 }

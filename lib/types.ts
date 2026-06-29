@@ -17,6 +17,7 @@ export interface RepoFinding {
   newCommits: number
   latestCommitMsg: string
   newReleases: string[]
+  trendScore?: number
 }
 
 export interface NewsItem {
