@@ -1,6 +1,6 @@
 import fs from "fs"
 import path from "path"
-import type { DailyFindings, RepoHistory } from "./types"
+import type { DailyFindings, RepoHistory, SpikeAlert, RepoScore, TrendingRepo } from "./types"
 
 const FINDINGS_DIR = path.join(process.cwd(), "data", "findings")
 const SNAPSHOTS_DIR = path.join(process.cwd(), "data", "snapshots")
@@ -122,4 +122,112 @@ export function getWeeklyNewsCounts(): { source: string; count: number }[] {
     }
   }
   return Object.entries(counts).map(([source, count]) => ({ source, count }))
+}
+
+export function computeSpikes(allFindings: DailyFindings[]): SpikeAlert[] {
+  if (allFindings.length < 3) return []
+  const latest = allFindings[allFindings.length - 1]
+  const history = allFindings.slice(-8, -1)
+  const alerts: SpikeAlert[] = []
+
+  for (const g of latest.github) {
+    const deltas = history
+      .map((f) => f.github.find((r) => r.repo === g.repo)?.starsDelta ?? 0)
+      .filter((d) => d >= 0)
+    if (deltas.length === 0) continue
+    const avg = deltas.reduce((a, b) => a + b, 0) / deltas.length
+    if (avg === 0 && g.starsDelta > 100) {
+      alerts.push({ repo: g.repo, starsDelta: g.starsDelta, avgDelta: 0, multiplier: 99 })
+    } else if (avg > 0 && g.starsDelta > avg * 3) {
+      alerts.push({
+        repo: g.repo,
+        starsDelta: g.starsDelta,
+        avgDelta: Math.round(avg),
+        multiplier: Math.round((g.starsDelta / avg) * 10) / 10,
+      })
+    }
+  }
+  return alerts.sort((a, b) => b.multiplier - a.multiplier)
+}
+
+export function computeRepoScores(allFindings: DailyFindings[]): Record<string, RepoScore> {
+  const recent = allFindings.slice(-7)
+  if (recent.length === 0) return {}
+
+  const aggStarsDelta: Record<string, number> = {}
+  const aggCommits: Record<string, number> = {}
+  const aggReleases: Record<string, number> = {}
+  const repos = new Set(recent.flatMap((f) => f.github.map((g) => g.repo)))
+
+  for (const f of recent) {
+    for (const g of f.github) {
+      aggStarsDelta[g.repo] = (aggStarsDelta[g.repo] ?? 0) + Math.max(0, g.starsDelta)
+      aggCommits[g.repo] = (aggCommits[g.repo] ?? 0) + g.newCommits
+      aggReleases[g.repo] = (aggReleases[g.repo] ?? 0) + g.newReleases.length
+    }
+  }
+
+  const maxStars = Math.max(...Object.values(aggStarsDelta), 1)
+  const maxCommits = Math.max(...Object.values(aggCommits), 1)
+  const maxReleases = Math.max(...Object.values(aggReleases), 1)
+  const scores: Record<string, RepoScore> = {}
+
+  for (const repo of repos) {
+    const growthScore = Math.round(((aggStarsDelta[repo] ?? 0) / maxStars) * 100)
+    const activityScore = Math.round(((aggCommits[repo] ?? 0) / maxCommits) * 100)
+    const releaseScore = Math.round(((aggReleases[repo] ?? 0) / maxReleases) * 100)
+    const overallScore = Math.round(growthScore * 0.4 + activityScore * 0.4 + releaseScore * 0.2)
+    scores[repo] = { repo, growthScore, activityScore, releaseScore, overallScore }
+  }
+  return scores
+}
+
+export function generateBrief(allFindings: DailyFindings[]): string {
+  if (allFindings.length === 0) return ""
+  const latest = allFindings[allFindings.length - 1]
+  const spikes = computeSpikes(allFindings)
+  const parts: string[] = []
+
+  const topGainer = [...latest.github].sort((a, b) => b.starsDelta - a.starsDelta)[0]
+  if (topGainer && topGainer.starsDelta > 0) {
+    parts.push(
+      `${topGainer.repo.split("/")[1]} led star growth today with +${topGainer.starsDelta.toLocaleString()} stars.`
+    )
+  }
+
+  if (spikes.length > 0) {
+    const s = spikes[0]
+    parts.push(`⚡ ${s.repo.split("/")[1]} is spiking at ${s.multiplier}x its 7-day average (+${s.starsDelta} vs avg ${s.avgDelta}/day).`)
+  }
+
+  const mostActive = [...latest.github].sort((a, b) => b.newCommits - a.newCommits)[0]
+  if (mostActive && mostActive.newCommits > 0) {
+    parts.push(`${mostActive.repo.split("/")[1]} saw the most commit activity with ${mostActive.newCommits} new commits.`)
+  }
+
+  const withReleases = latest.github.filter((g) => g.newReleases.length > 0)
+  if (withReleases.length > 0) {
+    const names = withReleases.map((g) => `${g.repo.split("/")[1]} (${g.newReleases[0]})`).join(", ")
+    parts.push(`New releases shipped: ${names}.`)
+  }
+
+  const totalNews = latest.news.reduce((s, n) => s + n.newItems.length, 0)
+  if (totalNews > 0) {
+    parts.push(`${totalNews} new articles tracked across monitored sources.`)
+  }
+
+  if (parts.length === 0) return "No significant changes detected today."
+  return parts.join(" ")
+}
+
+export function getTrendingRepos(allFindings: DailyFindings[]): TrendingRepo[] {
+  if (allFindings.length === 0) return []
+  const latest = allFindings[allFindings.length - 1]
+  return (latest.trending ?? []).map((t: any) => ({
+    repo: t.repo,
+    description: t.description ?? "",
+    starsToday: t.stars_today ?? t.starsToday ?? 0,
+    totalStars: t.total_stars ?? t.totalStars ?? 0,
+    language: t.language ?? "",
+  }))
 }

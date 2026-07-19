@@ -1,4 +1,4 @@
-import type { RepoFinding } from "@/lib/types"
+import type { RepoFinding, RepoScore } from "@/lib/types"
 
 function fmt(n: number) {
   if (n >= 1000) return (n / 1000).toFixed(1) + "K"
@@ -21,7 +21,19 @@ function TrendBadge({ score }: { score: number }) {
   return <span className="text-xs px-2 py-0.5 rounded-full bg-white/5 text-gray-600 font-medium">· Quiet</span>
 }
 
-export default function RepoCards({ findings }: { findings: RepoFinding[] }) {
+function ScoreRow({ label, value, color }: { label: string; value: number; color: string }) {
+  return (
+    <div className="flex items-center gap-2">
+      <span className="text-xs text-gray-600 w-14 shrink-0">{label}</span>
+      <div className="flex-1 h-1 bg-white/5 rounded-full overflow-hidden">
+        <div className={`h-full rounded-full ${color}`} style={{ width: `${value}%` }} />
+      </div>
+      <span className="text-xs text-gray-600 w-5 text-right">{value}</span>
+    </div>
+  )
+}
+
+export default function RepoCards({ findings, scores = {} }: { findings: (RepoFinding & { trendScore?: number })[]; scores?: Record<string, RepoScore> }) {
   if (findings.length === 0) return null
 
   const maxScore = Math.max(...findings.map((g) => g.trendScore ?? 0), 1)
@@ -71,6 +83,14 @@ export default function RepoCards({ findings }: { findings: RepoFinding[] }) {
                   />
                 </div>
               </div>
+
+              {scores[g.repo] && (
+                <div className="mt-3 space-y-1.5">
+                  <ScoreRow label="Growth" value={scores[g.repo].growthScore} color="bg-green-500" />
+                  <ScoreRow label="Activity" value={scores[g.repo].activityScore} color="bg-purple-500" />
+                  <ScoreRow label="Releases" value={scores[g.repo].releaseScore} color="bg-blue-500" />
+                </div>
+              )}
 
               {g.newReleases.length > 0 && (
                 <div className="mt-2 flex flex-wrap gap-1">

@@ -1,10 +1,22 @@
-import { getAllFindings, getLatestFindings, getAllRepos, computeTrendScores } from "@/lib/data"
+import {
+  getAllFindings,
+  getLatestFindings,
+  getAllRepos,
+  computeTrendScores,
+  computeSpikes,
+  computeRepoScores,
+  generateBrief,
+  getTrendingRepos,
+} from "@/lib/data"
 import Link from "next/link"
 import MetricCards from "@/components/MetricCards"
 import StarChart from "@/components/StarChart"
 import RepoCards from "@/components/RepoCards"
 import NewsFeed from "@/components/NewsFeed"
 import CommitActivity from "@/components/CommitActivity"
+import DailyBrief from "@/components/DailyBrief"
+import SpikeAlerts from "@/components/SpikeAlert"
+import TrendingFeed from "@/components/TrendingFeed"
 
 export const revalidate = 3600
 
@@ -13,6 +25,11 @@ export default function Home() {
   const allFindings = getAllFindings()
   const repos = getAllRepos()
   const trendScores = computeTrendScores(allFindings)
+  const spikes = computeSpikes(allFindings)
+  const repoScores = computeRepoScores(allFindings)
+  const brief = generateBrief(allFindings)
+  const trending = getTrendingRepos(allFindings)
+
   const findingsWithTrend = (latest?.github ?? []).map((g) => ({
     ...g,
     trendScore: trendScores[g.repo] ?? 0,
@@ -57,6 +74,12 @@ export default function Home() {
           daysTracked={allFindings.length}
         />
 
+        {brief && (
+          <DailyBrief brief={brief} date={latest?.date.slice(0, 10) ?? ""} />
+        )}
+
+        {spikes.length > 0 && <SpikeAlerts alerts={spikes} />}
+
         <div className="grid grid-cols-3 gap-6">
           <div className="col-span-2">
             <StarChart findings={allFindings} repos={repos} />
@@ -66,9 +89,12 @@ export default function Home() {
           </div>
         </div>
 
-        <RepoCards findings={findingsWithTrend} />
+        <RepoCards findings={findingsWithTrend} scores={repoScores} />
 
-        <NewsFeed findings={latest?.news ?? []} allFindings={allFindings.slice(-7)} />
+        <div className="grid grid-cols-2 gap-6">
+          <NewsFeed findings={latest?.news ?? []} allFindings={allFindings.slice(-7)} />
+          <TrendingFeed repos={trending} />
+        </div>
       </div>
     </main>
   )

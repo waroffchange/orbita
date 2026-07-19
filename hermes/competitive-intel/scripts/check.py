@@ -147,6 +147,44 @@ def check_news(target: dict) -> dict:
     return {"url": url, "new_items": new_items}
 
 
+def check_trending(tracked_repos: list[str]) -> list[dict]:
+    """Find trending AI repos via GitHub Search API (excludes already-tracked repos)."""
+    AI_KEYWORDS = ["ai", "llm", "agent", "machine-learning", "deep-learning", "transformer"]
+    tracked = {r.lower() for r in tracked_repos}
+    seen = set()
+    results = []
+
+    queries = [
+        "topic:llm+topic:agent+stars:>50",
+        "topic:ai+topic:agent+stars:>200",
+    ]
+    for q in queries:
+        try:
+            data = github_get(f"/search/repositories?q={q}+pushed:>{_week_ago()}&sort=stars&order=desc&per_page=8")
+            for r in data.get("items", []):
+                repo = r["full_name"]
+                if repo.lower() in tracked or repo in seen:
+                    continue
+                seen.add(repo)
+                results.append({
+                    "repo": repo,
+                    "description": (r.get("description") or "")[:120],
+                    "stars_today": 0,
+                    "total_stars": r["stargazers_count"],
+                    "language": r.get("language") or "",
+                })
+            time.sleep(1)
+        except Exception as e:
+            print(f"  Trending fetch error: {e}")
+
+    return results[:8]
+
+
+def _week_ago() -> str:
+    d = datetime.datetime.utcnow() - datetime.timedelta(days=7)
+    return d.strftime("%Y-%m-%d")
+
+
 def main():
     for d in [DATA_DIR, SNAPSHOTS_DIR, FINDINGS_DIR]:
         d.mkdir(parents=True, exist_ok=True)
@@ -156,7 +194,7 @@ def main():
         sys.exit(1)
 
     targets = json.loads(TARGETS_FILE.read_text())
-    findings = {"date": datetime.datetime.utcnow().isoformat(), "github": [], "news": []}
+    findings = {"date": datetime.datetime.utcnow().isoformat(), "github": [], "news": [], "trending": []}
 
     for t in targets.get("github", []):
         print(f"Checking GitHub: {t['repo']}")
@@ -172,6 +210,14 @@ def main():
             findings["news"].append(check_news(t))
         except Exception as e:
             print(f"  ERROR: {e}")
+
+    print("Checking GitHub Trending...")
+    tracked = [t["repo"] for t in targets.get("github", [])]
+    try:
+        findings["trending"] = check_trending(tracked)
+        print(f"  Found {len(findings['trending'])} trending repos")
+    except Exception as e:
+        print(f"  ERROR: {e}")
 
     date_str = datetime.datetime.utcnow().strftime("%Y-%m-%d")
     findings_path = FINDINGS_DIR / f"{date_str}.json"

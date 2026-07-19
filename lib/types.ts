@@ -37,6 +37,30 @@ export interface DailyFindings {
   date: string
   github: RepoFinding[]
   news: NewsFinding[]
+  trending?: TrendingRepo[]
+}
+
+export interface TrendingRepo {
+  repo: string
+  description: string
+  starsToday: number
+  totalStars: number
+  language?: string
+}
+
+export interface SpikeAlert {
+  repo: string
+  starsDelta: number
+  avgDelta: number
+  multiplier: number
+}
+
+export interface RepoScore {
+  repo: string
+  growthScore: number
+  activityScore: number
+  releaseScore: number
+  overallScore: number
 }
 
 export interface RepoHistory {
