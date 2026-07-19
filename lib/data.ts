@@ -29,6 +29,13 @@ function normalize(raw: any): DailyFindings {
       })),
       error: n.error,
     })),
+    trending: (raw.trending ?? []).map((t: any) => ({
+      repo: t.repo,
+      description: t.description ?? "",
+      starsToday: t.stars_today ?? t.starsToday ?? 0,
+      totalStars: t.total_stars ?? t.totalStars ?? 0,
+      language: t.language ?? "",
+    })),
   }
 }
 
