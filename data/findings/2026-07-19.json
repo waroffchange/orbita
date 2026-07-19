@@ -1,15 +1,15 @@
 {
-  "date": "2026-07-19T09:03:18.978895",
+  "date": "2026-07-19T13:54:01.720183",
   "github": [
     {
       "repo": "NousResearch/hermes-agent",
-      "stars": 216988,
+      "stars": 217104,
       "stars_delta": 0,
-      "forks": 40789,
+      "forks": 40826,
       "forks_delta": 0,
       "issues_delta": 0,
       "new_commits": 0,
-      "latest_commit_msg": "chore: map contributor email for FuryMartin",
+      "latest_commit_msg": "fmt(js): `npm run fix` on merge (#67491)",
       "new_releases": [
         "v2026.7.7.2",
         "v2026.7.7",
@@ -20,9 +20,9 @@
     },
     {
       "repo": "openai/openai-python",
-      "stars": 31167,
+      "stars": 31170,
       "stars_delta": 0,
-      "forks": 4954,
+      "forks": 4955,
       "forks_delta": 0,
       "issues_delta": 0,
       "new_commits": 0,
@@ -54,9 +54,9 @@
     },
     {
       "repo": "microsoft/autogen",
-      "stars": 59810,
+      "stars": 59812,
       "stars_delta": 0,
-      "forks": 9002,
+      "forks": 9003,
       "forks_delta": 0,
       "issues_delta": 0,
       "new_commits": 0,
@@ -71,9 +71,9 @@
     },
     {
       "repo": "langchain-ai/langchain",
-      "stars": 142072,
+      "stars": 142085,
       "stars_delta": 0,
-      "forks": 23632,
+      "forks": 23638,
       "forks_delta": 0,
       "issues_delta": 0,
       "new_commits": 0,
@@ -6395,6 +6395,64 @@
     {
       "url": "https://www.anthropic.com/news",
       "new_items": []
+    }
+  ],
+  "trending": [
+    {
+      "repo": "langgenius/dify",
+      "description": "Production-ready platform for agentic workflow development.",
+      "stars_today": 0,
+      "total_stars": 149321,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars_today": 0,
+      "total_stars": 93647,
+      "language": "Python"
+    },
+    {
+      "repo": "OpenHands/OpenHands",
+      "description": "\ud83d\ude4c OpenHands: AI-Driven Development",
+      "stars_today": 0,
+      "total_stars": 81275,
+      "language": "Python"
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories",
+      "stars_today": 0,
+      "total_stars": 77376,
+      "language": "Python"
+    },
+    {
+      "repo": "hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars_today": 0,
+      "total_stars": 73372,
+      "language": "Python"
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "description": "Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.",
+      "stars_today": 0,
+      "total_stars": 68402,
+      "language": "Python"
+    },
+    {
+      "repo": "datawhalechina/hello-agents",
+      "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
+      "stars_today": 0,
+      "total_stars": 67159,
+      "language": "Python"
+    },
+    {
+      "repo": "headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+      "stars_today": 0,
+      "total_stars": 59958,
+      "language": "Python"
     }
   ]
 }
