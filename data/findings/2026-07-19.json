@@ -1,11 +1,11 @@
 {
-  "date": "2026-07-19T13:54:01.720183",
+  "date": "2026-07-19T14:09:25.917363",
   "github": [
     {
       "repo": "NousResearch/hermes-agent",
-      "stars": 217104,
+      "stars": 217113,
       "stars_delta": 0,
-      "forks": 40826,
+      "forks": 40828,
       "forks_delta": 0,
       "issues_delta": 0,
       "new_commits": 0,
@@ -37,7 +37,7 @@
     },
     {
       "repo": "anthropics/anthropic-sdk-python",
-      "stars": 3749,
+      "stars": 3750,
       "stars_delta": 0,
       "forks": 778,
       "forks_delta": 0,
@@ -71,7 +71,7 @@
     },
     {
       "repo": "langchain-ai/langchain",
-      "stars": 142085,
+      "stars": 142086,
       "stars_delta": 0,
       "forks": 23638,
       "forks_delta": 0,
@@ -6409,7 +6409,7 @@
       "repo": "TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "stars_today": 0,
-      "total_stars": 93647,
+      "total_stars": 93649,
       "language": "Python"
     },
     {
@@ -6423,7 +6423,7 @@
       "repo": "bytedance/deer-flow",
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories",
       "stars_today": 0,
-      "total_stars": 77376,
+      "total_stars": 77378,
       "language": "Python"
     },
     {
@@ -6437,21 +6437,21 @@
       "repo": "unslothai/unsloth",
       "description": "Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.",
       "stars_today": 0,
-      "total_stars": 68402,
+      "total_stars": 68403,
       "language": "Python"
     },
     {
       "repo": "datawhalechina/hello-agents",
       "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
       "stars_today": 0,
-      "total_stars": 67159,
+      "total_stars": 67163,
       "language": "Python"
     },
     {
       "repo": "headroomlabs-ai/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
       "stars_today": 0,
-      "total_stars": 59958,
+      "total_stars": 59967,
       "language": "Python"
     }
   ]
