@@ -1,0 +1,162 @@
+{
+  "date": "2026-07-20T09:56:34.179952",
+  "github": [
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": 217495,
+      "stars_delta": 0,
+      "forks": 40979,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "fix(compression): detect semantic no-op results",
+      "new_releases": [
+        "v2026.7.7.2",
+        "v2026.7.7",
+        "v2026.7.1",
+        "v2026.6.19",
+        "v2026.6.5"
+      ]
+    },
+    {
+      "repo": "openai/openai-python",
+      "stars": 31178,
+      "stars_delta": 0,
+      "forks": 4962,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "fix(deps): require patched aiohttp on Python 3.10+ (#3515)",
+      "new_releases": [
+        "v2.46.0",
+        "v2.45.0",
+        "v2.44.0",
+        "v2.43.0",
+        "v2.42.0"
+      ]
+    },
+    {
+      "repo": "anthropics/anthropic-sdk-python",
+      "stars": 3751,
+      "stars_delta": 0,
+      "forks": 778,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "release: 0.117.0",
+      "new_releases": [
+        "v0.117.0",
+        "v0.116.0",
+        "v0.115.1",
+        "v0.115.0",
+        "v0.114.0"
+      ]
+    },
+    {
+      "repo": "microsoft/autogen",
+      "stars": 59836,
+      "stars_delta": 0,
+      "forks": 9006,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "Update maintenance mode banner in readme (#7521)",
+      "new_releases": [
+        "python-v0.7.5",
+        "python-v0.7.4",
+        "python-v0.7.3",
+        "python-v0.7.2",
+        "python-v0.7.1"
+      ]
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "stars": 142151,
+      "stars_delta": 0,
+      "forks": 23642,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "chore: bump torch from 2.12.1 to 2.13.0 in /libs/text-splitters (#38946)",
+      "new_releases": [
+        "langchain==1.3.14",
+        "langchain==1.3.13",
+        "langchain-openai==1.3.5",
+        "langchain-fireworks==1.4.4",
+        "langchain==1.3.12"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": []
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": [
+    {
+      "repo": "langgenius/dify",
+      "description": "Production-ready platform for agentic workflow development.",
+      "stars_today": 0,
+      "total_stars": 149448,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars_today": 0,
+      "total_stars": 93755,
+      "language": "Python"
+    },
+    {
+      "repo": "OpenHands/OpenHands",
+      "description": "\ud83d\ude4c OpenHands: AI-Driven Development",
+      "stars_today": 0,
+      "total_stars": 81376,
+      "language": "Python"
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories",
+      "stars_today": 0,
+      "total_stars": 77430,
+      "language": "Python"
+    },
+    {
+      "repo": "hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars_today": 0,
+      "total_stars": 73388,
+      "language": "Python"
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "description": "Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.",
+      "stars_today": 0,
+      "total_stars": 68448,
+      "language": "Python"
+    },
+    {
+      "repo": "datawhalechina/hello-agents",
+      "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
+      "stars_today": 0,
+      "total_stars": 67368,
+      "language": "Python"
+    },
+    {
+      "repo": "headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+      "stars_today": 0,
+      "total_stars": 60533,
+      "language": "Python"
+    }
+  ]
+}
