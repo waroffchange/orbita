@@ -1,0 +1,181 @@
+{
+  "date": "2026-07-22T09:24:06.232118",
+  "github": [
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": 218661,
+      "stars_delta": 0,
+      "forks": 41375,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "chore: add kshitij@kshitij.dev to AUTHOR_MAP",
+      "new_releases": [
+        "v2026.7.20",
+        "v2026.7.7.2",
+        "v2026.7.7",
+        "v2026.7.1",
+        "v2026.6.19"
+      ]
+    },
+    {
+      "repo": "openai/openai-python",
+      "stars": 31200,
+      "stars_delta": 0,
+      "forks": 4965,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "fix(deps): require patched aiohttp on Python 3.10+ (#3515)",
+      "new_releases": [
+        "v2.46.0",
+        "v2.45.0",
+        "v2.44.0",
+        "v2.43.0",
+        "v2.42.0"
+      ]
+    },
+    {
+      "repo": "anthropics/anthropic-sdk-python",
+      "stars": 3761,
+      "stars_delta": 0,
+      "forks": 782,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "release: 0.117.1",
+      "new_releases": [
+        "v0.117.1",
+        "v0.117.0",
+        "v0.116.0",
+        "v0.115.1",
+        "v0.115.0"
+      ]
+    },
+    {
+      "repo": "microsoft/autogen",
+      "stars": 59895,
+      "stars_delta": 0,
+      "forks": 9015,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "Update maintenance mode banner in readme (#7521)",
+      "new_releases": [
+        "python-v0.7.5",
+        "python-v0.7.4",
+        "python-v0.7.3",
+        "python-v0.7.2",
+        "python-v0.7.1"
+      ]
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "stars": 142312,
+      "stars_delta": 0,
+      "forks": 23677,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "fix(openai): correct `gpt-5.3-chat-latest` profile (#39009)",
+      "new_releases": [
+        "langchain-xai==1.3.0",
+        "langchain-openai==1.4.0",
+        "langchain-fireworks==1.5.0",
+        "langchain-anthropic==1.5.0",
+        "langchain-core==1.5.0"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/introducing-chatgpt-small-business-program",
+          "title": "Introducing the ChatGPT for small business program",
+          "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
+          "date": "Tue, 21 Jul 2026 17:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+          "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+          "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+          "date": "Tue, 21 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+          "title": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+          "link": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+          "date": "Tue, 21 Jul 2026 00:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": [
+    {
+      "repo": "langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+      "stars_today": 0,
+      "total_stars": 149738,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars_today": 0,
+      "total_stars": 94037,
+      "language": "Python"
+    },
+    {
+      "repo": "OpenHands/OpenHands",
+      "description": "\ud83d\ude4c OpenHands: AI-Driven Development",
+      "stars_today": 0,
+      "total_stars": 81668,
+      "language": "Python"
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories",
+      "stars_today": 0,
+      "total_stars": 77581,
+      "language": "Python"
+    },
+    {
+      "repo": "hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars_today": 0,
+      "total_stars": 73443,
+      "language": "Python"
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "description": "Unsloth is a local UI for training and running Gemma 4, Qwen3.6, DeepSeek, Kimi, GLM and other models.",
+      "stars_today": 0,
+      "total_stars": 68714,
+      "language": "Python"
+    },
+    {
+      "repo": "datawhalechina/hello-agents",
+      "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
+      "stars_today": 0,
+      "total_stars": 67865,
+      "language": "Python"
+    },
+    {
+      "repo": "headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+      "stars_today": 0,
+      "total_stars": 61107,
+      "language": "Python"
+    }
+  ]
+}
