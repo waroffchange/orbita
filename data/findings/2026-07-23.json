@@ -1,0 +1,193 @@
+{
+  "date": "2026-07-23T09:22:41.203349",
+  "github": [
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": 219193,
+      "stars_delta": 0,
+      "forks": 41549,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "Merge pull request #69938 from NousResearch/bb/desktop-dev-fixes",
+      "new_releases": [
+        "v2026.7.20",
+        "v2026.7.7.2",
+        "v2026.7.7",
+        "v2026.7.1",
+        "v2026.6.19"
+      ]
+    },
+    {
+      "repo": "openai/openai-python",
+      "stars": 31211,
+      "stars_delta": 0,
+      "forks": 4969,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "release: 2.47.0",
+      "new_releases": [
+        "v2.47.0",
+        "v2.46.0",
+        "v2.45.0",
+        "v2.44.0",
+        "v2.43.0"
+      ]
+    },
+    {
+      "repo": "anthropics/anthropic-sdk-python",
+      "stars": 3765,
+      "stars_delta": 0,
+      "forks": 784,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "release: 0.118.0",
+      "new_releases": [
+        "v0.118.0",
+        "v0.117.1",
+        "v0.117.0",
+        "v0.116.0",
+        "v0.115.1"
+      ]
+    },
+    {
+      "repo": "microsoft/autogen",
+      "stars": 59914,
+      "stars_delta": 0,
+      "forks": 9018,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "Update maintenance mode banner in readme (#7521)",
+      "new_releases": [
+        "python-v0.7.5",
+        "python-v0.7.4",
+        "python-v0.7.3",
+        "python-v0.7.2",
+        "python-v0.7.1"
+      ]
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "stars": 142391,
+      "stars_delta": 0,
+      "forks": 23692,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "fix(core): use `tool_call_schema` cache for `BaseTool` token counting in `count_tokens_approximately` (#39020)",
+      "new_releases": [
+        "langchain-openrouter==0.2.7",
+        "langchain-xai==1.3.0",
+        "langchain-openai==1.4.0",
+        "langchain-fireworks==1.5.0",
+        "langchain-anthropic==1.5.0"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+          "title": "Building AI infrastructure with the Effingham County community",
+          "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+          "date": "Wed, 22 Jul 2026 13:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/how-news-organizations-are-using-ai",
+          "title": "How news organizations are using AI to advance their vital missions",
+          "link": "https://openai.com/index/how-news-organizations-are-using-ai",
+          "date": "Wed, 22 Jul 2026 13:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/advancing-the-next-era-of-national-science",
+          "title": "Advancing the next era of national science",
+          "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
+          "date": "Wed, 22 Jul 2026 12:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/introducing-openai-presence",
+          "title": "Introducing OpenAI Presence",
+          "link": "https://openai.com/index/introducing-openai-presence",
+          "date": "Wed, 22 Jul 2026 05:30:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/ntt-data",
+          "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+          "link": "https://openai.com/index/ntt-data",
+          "date": "Wed, 22 Jul 2026 00:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": [
+    {
+      "repo": "langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+      "stars_today": 0,
+      "total_stars": 149904,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars_today": 0,
+      "total_stars": 94207,
+      "language": "Python"
+    },
+    {
+      "repo": "OpenHands/OpenHands",
+      "description": "\ud83d\ude4c OpenHands: AI-Driven Development",
+      "stars_today": 0,
+      "total_stars": 81793,
+      "language": "Python"
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories",
+      "stars_today": 0,
+      "total_stars": 77661,
+      "language": "Python"
+    },
+    {
+      "repo": "hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars_today": 0,
+      "total_stars": 73466,
+      "language": "Python"
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "description": "Unsloth is a local UI for training and running Gemma 4, Qwen3.6, DeepSeek, Kimi, GLM and other models.",
+      "stars_today": 0,
+      "total_stars": 68775,
+      "language": "Python"
+    },
+    {
+      "repo": "datawhalechina/hello-agents",
+      "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
+      "stars_today": 0,
+      "total_stars": 68111,
+      "language": "Python"
+    },
+    {
+      "repo": "headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+      "stars_today": 0,
+      "total_stars": 61339,
+      "language": "Python"
+    }
+  ]
+}
