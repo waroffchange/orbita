@@ -1,0 +1,162 @@
+{
+  "date": "2026-07-25T08:59:18.717803",
+  "github": [
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": 220177,
+      "stars_delta": 0,
+      "forks": 41874,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "fmt(js): `npm run fix` on merge (#71236)",
+      "new_releases": [
+        "v2026.7.20",
+        "v2026.7.7.2",
+        "v2026.7.7",
+        "v2026.7.1",
+        "v2026.6.19"
+      ]
+    },
+    {
+      "repo": "openai/openai-python",
+      "stars": 31223,
+      "stars_delta": 0,
+      "forks": 4984,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "feat: require Python 3.10 and automate version reviews (#3537)",
+      "new_releases": [
+        "v2.48.0",
+        "v2.47.0",
+        "v2.46.0",
+        "v2.45.0",
+        "v2.44.0"
+      ]
+    },
+    {
+      "repo": "anthropics/anthropic-sdk-python",
+      "stars": 3772,
+      "stars_delta": 0,
+      "forks": 788,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "release: 0.120.0",
+      "new_releases": [
+        "v0.120.0",
+        "v0.119.0",
+        "v0.118.0",
+        "v0.117.1",
+        "v0.117.0"
+      ]
+    },
+    {
+      "repo": "microsoft/autogen",
+      "stars": 59957,
+      "stars_delta": 0,
+      "forks": 9024,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "Update maintenance mode banner in readme (#7521)",
+      "new_releases": [
+        "python-v0.7.5",
+        "python-v0.7.4",
+        "python-v0.7.3",
+        "python-v0.7.2",
+        "python-v0.7.1"
+      ]
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "stars": 142562,
+      "stars_delta": 0,
+      "forks": 23737,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "chore: bump jupyterlab from 4.5.9 to 4.5.10 in /libs/langchain (#39030)",
+      "new_releases": [
+        "langchain-anthropic==1.5.2",
+        "langchain-openai==1.4.1",
+        "langchain-fireworks==1.5.1",
+        "langchain-core==1.5.1",
+        "langchain-anthropic==1.5.1"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": []
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": [
+    {
+      "repo": "langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+      "stars_today": 0,
+      "total_stars": 150174,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "OpenHands/OpenHands",
+      "description": "\ud83d\ude4c OpenHands: AI-Driven Development",
+      "stars_today": 0,
+      "total_stars": 82020,
+      "language": "Python"
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories",
+      "stars_today": 0,
+      "total_stars": 77817,
+      "language": "Python"
+    },
+    {
+      "repo": "hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars_today": 0,
+      "total_stars": 73503,
+      "language": "Python"
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "description": "Unsloth is a local UI for training and running Gemma 4, Qwen3.6, DeepSeek, Kimi, GLM and other models.",
+      "stars_today": 0,
+      "total_stars": 68863,
+      "language": "Python"
+    },
+    {
+      "repo": "headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+      "stars_today": 0,
+      "total_stars": 62280,
+      "language": "Python"
+    },
+    {
+      "repo": "AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can b",
+      "stars_today": 0,
+      "total_stars": 38041,
+      "language": "Python"
+    },
+    {
+      "repo": "CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
+      "stars_today": 0,
+      "total_stars": 36263,
+      "language": "TypeScript"
+    }
+  ]
+}
