@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-02T09:06:32.450846",
+  "github": [
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": 224002,
+      "stars_delta": 0,
+      "forks": 43258,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "refactor(process-registry): fold kill_started_since into kill_all via exclude_ids",
+      "new_releases": [
+        "v2026.7.30",
+        "v2026.7.20",
+        "v2026.7.7.2",
+        "v2026.7.7",
+        "v2026.7.1"
+      ]
+    },
+    {
+      "repo": "openai/openai-python",
+      "stars": 31277,
+      "stars_delta": 0,
+      "forks": 5055,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "chore(ci): pin setup-uv v5 to its underlying commit (#3560)",
+      "new_releases": [
+        "v2.52.0",
+        "v2.51.0",
+        "v2.50.0",
+        "v2.49.0",
+        "v2.48.0"
+      ]
+    },
+    {
+      "repo": "anthropics/anthropic-sdk-python",
+      "stars": 3786,
+      "stars_delta": 0,
+      "forks": 793,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "release: 0.120.2",
+      "new_releases": [
+        "v0.120.2",
+        "v0.120.1",
+        "v0.120.0",
+        "v0.119.0",
+        "v0.118.0"
+      ]
+    },
+    {
+      "repo": "microsoft/autogen",
+      "stars": 60163,
+      "stars_delta": 0,
+      "forks": 9064,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "Update maintenance mode banner in readme (#7521)",
+      "new_releases": [
+        "python-v0.7.5",
+        "python-v0.7.4",
+        "python-v0.7.3",
+        "python-v0.7.2",
+        "python-v0.7.1"
+      ]
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "stars": 143207,
+      "stars_delta": 0,
+      "forks": 23854,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "fix(core): redact streaming callback options (#39179)",
+      "new_releases": [
+        "langchain-core==1.5.3",
+        "langchain-core==1.5.2",
+        "langchain-anthropic==1.5.3",
+        "langchain-fireworks==1.5.2",
+        "langchain-anthropic==1.5.2"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": []
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": [
+    {
+      "repo": "langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+      "stars_today": 0,
+      "total_stars": 151043,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "OpenHands/OpenHands",
+      "description": "\ud83d\ude4c OpenHands: AI-Driven Development",
+      "stars_today": 0,
+      "total_stars": 82834,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories",
+      "stars_today": 0,
+      "total_stars": 78862,
+      "language": "Python"
+    },
+    {
+      "repo": "hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars_today": 0,
+      "total_stars": 73677,
+      "language": "Python"
+    },
+    {
+      "repo": "shareAI-lab/learn-claude-code",
+      "description": "Bash is all you need -  A nano claude code\u2013like \u300cagent harness\u300d, built from 0 to 1",
+      "stars_today": 0,
+      "total_stars": 72957,
+      "language": "Python"
+    },
+    {
+      "repo": "datawhalechina/hello-agents",
+      "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
+      "stars_today": 0,
+      "total_stars": 70062,
+      "language": "Python"
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "description": "Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.",
+      "stars_today": 0,
+      "total_stars": 69374,
+      "language": "Python"
+    },
+    {
+      "repo": "headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+      "stars_today": 0,
+      "total_stars": 63957,
+      "language": "Python"
+    }
+  ]
+}
