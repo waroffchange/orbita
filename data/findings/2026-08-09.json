@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-09T07:50:51.073384",
+  "github": [
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": 227641,
+      "stars_delta": 0,
+      "forks": 44644,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "Merge pull request #82345 from NousResearch/bb/home-dupe",
+      "new_releases": [
+        "v2026.8.3",
+        "v2026.7.30",
+        "v2026.7.20",
+        "v2026.7.7.2",
+        "v2026.7.7"
+      ]
+    },
+    {
+      "repo": "openai/openai-python",
+      "stars": 31325,
+      "stars_delta": 0,
+      "forks": 5115,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "ci: use GitHub App for Release Please (#3577)",
+      "new_releases": [
+        "v2.53.0",
+        "v2.52.1",
+        "v2.52.0",
+        "v2.51.0",
+        "v2.50.0"
+      ]
+    },
+    {
+      "repo": "anthropics/anthropic-sdk-python",
+      "stars": 3802,
+      "stars_delta": 0,
+      "forks": 800,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "docs: fix fulfillment typos in session runner (#1795)",
+      "new_releases": [
+        "v0.121.0",
+        "v0.120.2",
+        "v0.120.1",
+        "v0.120.0",
+        "v0.119.0"
+      ]
+    },
+    {
+      "repo": "microsoft/autogen",
+      "stars": 60322,
+      "stars_delta": 0,
+      "forks": 9086,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "Update maintenance mode banner in readme (#7521)",
+      "new_releases": [
+        "python-v0.7.5",
+        "python-v0.7.4",
+        "python-v0.7.3",
+        "python-v0.7.2",
+        "python-v0.7.1"
+      ]
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "stars": 143762,
+      "stars_delta": 0,
+      "forks": 23947,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "chore: bump h2 from 4.3.0 to 4.4.1 in /libs/langchain (#39325)",
+      "new_releases": [
+        "langchain-openai==1.4.2",
+        "langchain-anthropic==1.5.4",
+        "langchain-core==1.5.3",
+        "langchain-core==1.5.2",
+        "langchain-anthropic==1.5.3"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": []
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": [
+    {
+      "repo": "langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+      "stars_today": 0,
+      "total_stars": 151820,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "OpenHands/OpenHands",
+      "description": "\ud83d\ude4c OpenHands: AI-Driven Development",
+      "stars_today": 0,
+      "total_stars": 83499,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories",
+      "stars_today": 0,
+      "total_stars": 79585,
+      "language": "Python"
+    },
+    {
+      "repo": "hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars_today": 0,
+      "total_stars": 73930,
+      "language": "Python"
+    },
+    {
+      "repo": "datawhalechina/hello-agents",
+      "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
+      "stars_today": 0,
+      "total_stars": 71739,
+      "language": "Python"
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "description": "The local UI to run and train text and diffusion models, including Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more",
+      "stars_today": 0,
+      "total_stars": 69741,
+      "language": "Python"
+    },
+    {
+      "repo": "headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+      "stars_today": 0,
+      "total_stars": 65565,
+      "language": "Python"
+    },
+    {
+      "repo": "AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can b",
+      "stars_today": 0,
+      "total_stars": 38850,
+      "language": "Python"
+    }
+  ]
+}
