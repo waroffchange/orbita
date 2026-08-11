@@ -1,0 +1,211 @@
+{
+  "date": "2026-08-11T08:06:57.201398",
+  "github": [
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": 228663,
+      "stars_delta": 0,
+      "forks": 45006,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "fix(kimi): send Hermes attribution headers instead of claude-code/0.1.0",
+      "new_releases": [
+        "v2026.8.3",
+        "v2026.7.30",
+        "v2026.7.20",
+        "v2026.7.7.2",
+        "v2026.7.7"
+      ]
+    },
+    {
+      "repo": "openai/openai-python",
+      "stars": 31336,
+      "stars_delta": 0,
+      "forks": 5119,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "chore(api): Update generated-file header attribution to Castiron (#3583)",
+      "new_releases": [
+        "v2.53.0",
+        "v2.52.1",
+        "v2.52.0",
+        "v2.51.0",
+        "v2.50.0"
+      ]
+    },
+    {
+      "repo": "anthropics/anthropic-sdk-python",
+      "stars": 3810,
+      "stars_delta": 0,
+      "forks": 803,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "docs: fix fulfillment typos in session runner (#1795)",
+      "new_releases": [
+        "v0.121.0",
+        "v0.120.2",
+        "v0.120.1",
+        "v0.120.0",
+        "v0.119.0"
+      ]
+    },
+    {
+      "repo": "microsoft/autogen",
+      "stars": 60352,
+      "stars_delta": 0,
+      "forks": 9095,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "Update maintenance mode banner in readme (#7521)",
+      "new_releases": [
+        "python-v0.7.5",
+        "python-v0.7.4",
+        "python-v0.7.3",
+        "python-v0.7.2",
+        "python-v0.7.1"
+      ]
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "stars": 143943,
+      "stars_delta": 0,
+      "forks": 23976,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "chore(model-profiles): refresh model profile data (#39430)",
+      "new_releases": [
+        "langchain-openai==1.4.3",
+        "langchain-openai==1.4.2",
+        "langchain-anthropic==1.5.4",
+        "langchain-core==1.5.3",
+        "langchain-core==1.5.2"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/responsible-ai-infrastructure-texas",
+          "title": "OpenAI\u2019s letter to Governor Abbott on responsible AI infrastructure in Texas",
+          "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
+          "date": "Mon, 10 Aug 2026 14:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/model-ml",
+          "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "link": "https://openai.com/index/model-ml",
+          "date": "Mon, 10 Aug 2026 12:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/building-an-ai-native-finance-function",
+          "title": "What building an AI-native finance function taught me",
+          "link": "https://openai.com/index/building-an-ai-native-finance-function",
+          "date": "Mon, 10 Aug 2026 17:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+          "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "date": "Mon, 10 Aug 2026 10:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+          "title": "Putting frontier cyber models in more trusted hands",
+          "link": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+          "date": "Mon, 10 Aug 2026 10:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/premium-seats-chatgpt-business",
+          "title": "Premium seats are coming to ChatGPT Business",
+          "link": "https://openai.com/index/premium-seats-chatgpt-business",
+          "date": "Mon, 10 Aug 2026 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/zapier",
+          "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+          "link": "https://openai.com/index/zapier",
+          "date": "Mon, 10 Aug 2026 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+          "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+          "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+          "date": "Mon, 10 Aug 2026 00:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": [
+    {
+      "repo": "langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+      "stars_today": 0,
+      "total_stars": 152055,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "OpenHands/OpenHands",
+      "description": "\ud83d\ude4c OpenHands: AI-Driven Development",
+      "stars_today": 0,
+      "total_stars": 83675,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories",
+      "stars_today": 0,
+      "total_stars": 79710,
+      "language": "Python"
+    },
+    {
+      "repo": "hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars_today": 0,
+      "total_stars": 73987,
+      "language": "Python"
+    },
+    {
+      "repo": "datawhalechina/hello-agents",
+      "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
+      "stars_today": 0,
+      "total_stars": 72177,
+      "language": "Python"
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX ",
+      "stars_today": 0,
+      "total_stars": 69893,
+      "language": "Python"
+    },
+    {
+      "repo": "headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+      "stars_today": 0,
+      "total_stars": 65876,
+      "language": "Python"
+    },
+    {
+      "repo": "jeecgboot/JeecgBoot",
+      "description": "\u3010\u4f4e\u4ee3\u7801\u8fc8\u5165v2.0\u65f6\u4ee3\uff0c\u4e00\u53e5\u8bdd\u5373\u53ef\u751f\u6210\u6574\u4e2a\u7cfb\u7edf\u3011\u4f01\u4e1a\u7ea7AI\u4f4e\u4ee3\u7801\u5e73\u53f0\uff0c\u4e00\u952e\u751f\u6210\u524d\u540e\u7aef\u4ee3\u7801\u751a\u81f3\u6574\u4e2a\u7cfb\u7edf\u3002 AI Skills \u4e00\u53e5\u8bdd\u753b\u6d41\u7a0b\u3001\u8bbe\u8ba1\u8868\u5355\u3001\u751f\u6210\u62a5\u8868\u3001\u5927\u5c4f\u3002\u5185\u7f6e AI\u5e94\u7528\u5e73\u53f0\u6db5\u76d6\uff1aAI\u804a\u5929\u3001\u77e5\u8bc6\u5e93\u3001\u6d41\u7a0b\u7f16\u6392\u3001MCP\u63d2\u4ef6\u7b49\uff0c\u517c\u5bb9\u4e3b\u6d41",
+      "stars_today": 0,
+      "total_stars": 47362,
+      "language": "Java"
+    }
+  ]
+}
