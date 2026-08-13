@@ -1,0 +1,193 @@
+{
+  "date": "2026-08-13T08:17:07.494930",
+  "github": [
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": 229781,
+      "stars_delta": 0,
+      "forks": 45384,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "fmt(js): `npm run fix` on merge (#85140)",
+      "new_releases": [
+        "v2026.8.3",
+        "v2026.7.30",
+        "v2026.7.20",
+        "v2026.7.7.2",
+        "v2026.7.7"
+      ]
+    },
+    {
+      "repo": "openai/openai-python",
+      "stars": 31353,
+      "stars_delta": 0,
+      "forks": 5119,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "chore: remove Stainless attribution and infrastructure (#3599)",
+      "new_releases": [
+        "v3.0.0",
+        "v2.54.0",
+        "v2.53.0",
+        "v2.52.1",
+        "v2.52.0"
+      ]
+    },
+    {
+      "repo": "anthropics/anthropic-sdk-python",
+      "stars": 3814,
+      "stars_delta": 0,
+      "forks": 803,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "docs: fix fulfillment typos in session runner (#1795)",
+      "new_releases": [
+        "v0.121.0",
+        "v0.120.2",
+        "v0.120.1",
+        "v0.120.0",
+        "v0.119.0"
+      ]
+    },
+    {
+      "repo": "microsoft/autogen",
+      "stars": 60393,
+      "stars_delta": 0,
+      "forks": 9103,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "Update maintenance mode banner in readme (#7521)",
+      "new_releases": [
+        "python-v0.7.5",
+        "python-v0.7.4",
+        "python-v0.7.3",
+        "python-v0.7.2",
+        "python-v0.7.1"
+      ]
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "stars": 144142,
+      "stars_delta": 0,
+      "forks": 24001,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "release(anthropic): 1.5.6 (#39622)",
+      "new_releases": [
+        "langchain-anthropic==1.5.6",
+        "langchain==1.3.15",
+        "langchain-core==1.5.4",
+        "langchain-anthropic==1.5.5",
+        "langchain-openai==1.4.3"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/how-enterprises-put-ai-to-work",
+          "title": "From assistance to execution: How enterprises put AI to work",
+          "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
+          "date": "Wed, 12 Aug 2026 06:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/ringcentral",
+          "title": "How RingCentral builds AI-native work from engineering to ops",
+          "link": "https://openai.com/index/ringcentral",
+          "date": "Wed, 12 Aug 2026 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
+          "title": "How data science teams use ChatGPT Work",
+          "link": "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
+          "date": "Tue, 14 Jul 2026 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex",
+          "title": "How sales teams use ChatGPT Work",
+          "link": "https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex",
+          "date": "Tue, 14 Jul 2026 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/academy/chatgpt-work/how-business-operations-teams-use-codex",
+          "title": "How business operations teams use ChatGPT Work",
+          "link": "https://openai.com/academy/chatgpt-work/how-business-operations-teams-use-codex",
+          "date": "Fri, 15 May 2026 00:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": [
+    {
+      "repo": "langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+      "stars_today": 0,
+      "total_stars": 152295,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "OpenHands/OpenHands",
+      "description": "\ud83d\ude4c OpenHands: AI-Driven Development",
+      "stars_today": 0,
+      "total_stars": 83878,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories",
+      "stars_today": 0,
+      "total_stars": 79894,
+      "language": "Python"
+    },
+    {
+      "repo": "shareAI-lab/learn-claude-code",
+      "description": "Bash is all you need -  A nano claude code\u2013like \u300cagent harness\u300d, built from 0 to 1",
+      "stars_today": 0,
+      "total_stars": 74073,
+      "language": "Python"
+    },
+    {
+      "repo": "hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars_today": 0,
+      "total_stars": 74055,
+      "language": "Python"
+    },
+    {
+      "repo": "datawhalechina/hello-agents",
+      "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
+      "stars_today": 0,
+      "total_stars": 72692,
+      "language": "Python"
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX ",
+      "stars_today": 0,
+      "total_stars": 70728,
+      "language": "Python"
+    },
+    {
+      "repo": "headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+      "stars_today": 0,
+      "total_stars": 66123,
+      "language": "Python"
+    }
+  ]
+}
