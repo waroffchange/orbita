@@ -1,0 +1,205 @@
+{
+  "date": "2026-08-19T07:34:02.272448",
+  "github": [
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": 232708,
+      "stars_delta": 0,
+      "forks": 46477,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "fix(desktop): atomic profile-switch publication v2 \u2014 fail open, lease mid-dial entries (#89622, #46651)",
+      "new_releases": [
+        "v2026.8.18",
+        "v2026.8.16.2",
+        "v2026.8.16",
+        "v2026.8.13",
+        "v2026.8.3"
+      ]
+    },
+    {
+      "repo": "openai/openai-python",
+      "stars": 31404,
+      "stars_delta": 0,
+      "forks": 5129,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "release: 3.3.0 (#3640)",
+      "new_releases": [
+        "v3.3.0",
+        "v3.2.0",
+        "v3.1.0",
+        "v3.0.0",
+        "v2.54.0"
+      ]
+    },
+    {
+      "repo": "anthropics/anthropic-sdk-python",
+      "stars": 3835,
+      "stars_delta": 0,
+      "forks": 814,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "release: 0.122.0",
+      "new_releases": [
+        "v0.122.0",
+        "v0.121.0",
+        "v0.120.2",
+        "v0.120.1",
+        "v0.120.0"
+      ]
+    },
+    {
+      "repo": "microsoft/autogen",
+      "stars": 60506,
+      "stars_delta": 0,
+      "forks": 9117,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "Update maintenance mode banner in readme (#7521)",
+      "new_releases": [
+        "python-v0.7.5",
+        "python-v0.7.4",
+        "python-v0.7.3",
+        "python-v0.7.2",
+        "python-v0.7.1"
+      ]
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "stars": 144521,
+      "stars_delta": 0,
+      "forks": 24066,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "fix(openai): raise clear error on unexpected response type in `_create_chat_result` (#39731)",
+      "new_releases": [
+        "langchain-openai==1.5.2a1",
+        "langchain-openai==1.5.2",
+        "langchain-core==1.5.6",
+        "langchain-openrouter==0.2.8",
+        "langchain-openai==1.5.1"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+          "title": "ChatGPT Ads expands across Europe",
+          "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+          "date": "Tue, 18 Aug 2026 22:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+          "title": "Strengthening democratic oversight in national security",
+          "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+          "date": "Tue, 18 Aug 2026 19:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/partnering-with-codeai",
+          "title": "Partnering with CodeAI to prepare the first AI generation",
+          "link": "https://openai.com/index/partnering-with-codeai",
+          "date": "Tue, 18 Aug 2026 11:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+          "title": "Pacing model development in an era of cyber-critical capabilities",
+          "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+          "date": "Tue, 18 Aug 2026 11:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/chatgpt-for-teens",
+          "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+          "link": "https://openai.com/index/chatgpt-for-teens",
+          "date": "Tue, 18 Aug 2026 11:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/nvidia/chatgpt-work",
+          "title": "How NVIDIA scales expertise with ChatGPT Work",
+          "link": "https://openai.com/index/nvidia/chatgpt-work",
+          "date": "Tue, 18 Aug 2026 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/asana",
+          "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "link": "https://openai.com/index/asana",
+          "date": "Tue, 18 Aug 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": [
+    {
+      "repo": "langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+      "stars_today": 0,
+      "total_stars": 152878,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "OpenHands/OpenHands",
+      "description": "\ud83d\ude4c OpenHands: AI-Driven Development",
+      "stars_today": 0,
+      "total_stars": 84447,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories",
+      "stars_today": 0,
+      "total_stars": 80286,
+      "language": "Python"
+    },
+    {
+      "repo": "shareAI-lab/learn-claude-code",
+      "description": "Bash is all you need -  A nano claude code\u2013like \u300cagent harness\u300d, built from 0 to 1",
+      "stars_today": 0,
+      "total_stars": 74622,
+      "language": "Python"
+    },
+    {
+      "repo": "hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars_today": 0,
+      "total_stars": 74218,
+      "language": "Python"
+    },
+    {
+      "repo": "datawhalechina/hello-agents",
+      "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
+      "stars_today": 0,
+      "total_stars": 73686,
+      "language": "Python"
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX ",
+      "stars_today": 0,
+      "total_stars": 73679,
+      "language": "Python"
+    },
+    {
+      "repo": "headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+      "stars_today": 0,
+      "total_stars": 66830,
+      "language": "Python"
+    }
+  ]
+}
