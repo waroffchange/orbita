@@ -1,0 +1,175 @@
+{
+  "date": "2026-08-21T07:39:10.677300",
+  "github": [
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": 233694,
+      "stars_delta": 0,
+      "forks": 46846,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "feat: keyless flag on the provider catalog \u2014 GUI contract tests exempt anonymous providers",
+      "new_releases": [
+        "v2026.8.18",
+        "v2026.8.16.2",
+        "v2026.8.16",
+        "v2026.8.13",
+        "v2026.8.3"
+      ]
+    },
+    {
+      "repo": "openai/openai-python",
+      "stars": 31422,
+      "stars_delta": 0,
+      "forks": 5138,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "docs(api): restore generated ChatKit API index (#3705)",
+      "new_releases": [
+        "v3.3.1",
+        "v3.3.0",
+        "v3.2.0",
+        "v3.1.0",
+        "v3.0.0"
+      ]
+    },
+    {
+      "repo": "anthropics/anthropic-sdk-python",
+      "stars": 3840,
+      "stars_delta": 0,
+      "forks": 819,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "release: 1.0.0",
+      "new_releases": [
+        "v1.0.0",
+        "v0.125.0",
+        "v0.124.0",
+        "v0.123.0",
+        "v0.122.0"
+      ]
+    },
+    {
+      "repo": "microsoft/autogen",
+      "stars": 60554,
+      "stars_delta": 0,
+      "forks": 9128,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "Update maintenance mode banner in readme (#7521)",
+      "new_releases": [
+        "python-v0.7.5",
+        "python-v0.7.4",
+        "python-v0.7.3",
+        "python-v0.7.2",
+        "python-v0.7.1"
+      ]
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "stars": 144688,
+      "stars_delta": 0,
+      "forks": 24104,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "fix(perplexity): include type=\"message\" on Responses input items (#39774)",
+      "new_releases": [
+        "langchain==1.3.16",
+        "langchain-fireworks==1.6.0",
+        "langchain-anthropic==1.6.1",
+        "langchain-openai==1.6.0",
+        "langchain-core==1.6.0"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/introducing-ai-futures",
+          "title": "Introducing AI Futures",
+          "link": "https://openai.com/index/introducing-ai-futures",
+          "date": "Thu, 20 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/stampli",
+          "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+          "link": "https://openai.com/index/stampli",
+          "date": "Thu, 20 Aug 2026 00:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": [
+    {
+      "repo": "langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+      "stars_today": 0,
+      "total_stars": 153095,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "OpenHands/OpenHands",
+      "description": "\ud83d\ude4c OpenHands: AI-Driven Development",
+      "stars_today": 0,
+      "total_stars": 84664,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories",
+      "stars_today": 0,
+      "total_stars": 80442,
+      "language": "Python"
+    },
+    {
+      "repo": "shareAI-lab/learn-claude-code",
+      "description": "Bash is all you need -  A nano claude code\u2013like \u300cagent harness\u300d, built from 0 to 1",
+      "stars_today": 0,
+      "total_stars": 74851,
+      "language": "Python"
+    },
+    {
+      "repo": "hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars_today": 0,
+      "total_stars": 74271,
+      "language": "Python"
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX ",
+      "stars_today": 0,
+      "total_stars": 74152,
+      "language": "Python"
+    },
+    {
+      "repo": "datawhalechina/hello-agents",
+      "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
+      "stars_today": 0,
+      "total_stars": 74020,
+      "language": "Python"
+    },
+    {
+      "repo": "headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+      "stars_today": 0,
+      "total_stars": 67037,
+      "language": "Python"
+    }
+  ]
+}
