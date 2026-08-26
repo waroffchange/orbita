@@ -1,0 +1,187 @@
+{
+  "date": "2026-08-26T07:41:48.849418",
+  "github": [
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": 236561,
+      "stars_delta": 0,
+      "forks": 47790,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "fix(desktop): drop unused registryGatewayWsUrl import left by the header-binding refactor rebase",
+      "new_releases": [
+        "v2026.8.19",
+        "v2026.8.18",
+        "v2026.8.16.2",
+        "v2026.8.16",
+        "v2026.8.13"
+      ]
+    },
+    {
+      "repo": "openai/openai-python",
+      "stars": 31462,
+      "stars_delta": 0,
+      "forks": 5142,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "fix(api): encode Realtime call offers and session configuration (#3736)",
+      "new_releases": [
+        "v3.3.1",
+        "v3.3.0",
+        "v3.2.0",
+        "v3.1.0",
+        "v3.0.0"
+      ]
+    },
+    {
+      "repo": "anthropics/anthropic-sdk-python",
+      "stars": 3853,
+      "stars_delta": 0,
+      "forks": 830,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "fix(docs): correct link for long requests error (#1884)",
+      "new_releases": [
+        "v1.0.0",
+        "v0.125.0",
+        "v0.124.0",
+        "v0.123.0",
+        "v0.122.0"
+      ]
+    },
+    {
+      "repo": "microsoft/autogen",
+      "stars": 60634,
+      "stars_delta": 0,
+      "forks": 9152,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "Update maintenance mode banner in readme (#7521)",
+      "new_releases": [
+        "python-v0.7.5",
+        "python-v0.7.4",
+        "python-v0.7.3",
+        "python-v0.7.2",
+        "python-v0.7.1"
+      ]
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "stars": 145021,
+      "stars_delta": 0,
+      "forks": 24176,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "chore(model-profiles): refresh model profile data (#39906)",
+      "new_releases": [
+        "langchain==1.3.17",
+        "langchain-perplexity==1.4.1",
+        "langchain==1.3.16",
+        "langchain-fireworks==1.6.0",
+        "langchain-anthropic==1.6.1"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+          "title": "The full stack behind abundant intelligence",
+          "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+          "date": "Tue, 25 Aug 2026 07:05:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/jalapeno-first-results",
+          "title": "Jalape\u00f1o\u2019s first results show industry-leading speed and efficiency in AI inference",
+          "link": "https://openai.com/index/jalapeno-first-results",
+          "date": "Tue, 25 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+          "title": "Disrupting a new covert influence campaign from Russia",
+          "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+          "date": "Tue, 25 Aug 2026 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/introducing-admin-plugin",
+          "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+          "link": "https://openai.com/index/introducing-admin-plugin",
+          "date": "Tue, 25 Aug 2026 00:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": [
+    {
+      "repo": "langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+      "stars_today": 0,
+      "total_stars": 153542,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "OpenHands/OpenHands",
+      "description": "\ud83d\ude4c OpenHands: AI-Driven Development",
+      "stars_today": 0,
+      "total_stars": 85127,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories",
+      "stars_today": 0,
+      "total_stars": 80906,
+      "language": "Python"
+    },
+    {
+      "repo": "shareAI-lab/learn-claude-code",
+      "description": "Bash is all you need -  A nano claude code\u2013like \u300cagent harness\u300d, built from 0 to 1",
+      "stars_today": 0,
+      "total_stars": 75328,
+      "language": "Python"
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX ",
+      "stars_today": 0,
+      "total_stars": 74787,
+      "language": "Python"
+    },
+    {
+      "repo": "hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars_today": 0,
+      "total_stars": 74363,
+      "language": "Python"
+    },
+    {
+      "repo": "headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+      "stars_today": 0,
+      "total_stars": 67624,
+      "language": "Python"
+    },
+    {
+      "repo": "jeecgboot/JeecgBoot",
+      "description": "\u3010\u4f4e\u4ee3\u7801v2.0\uff0c\u4e00\u53e5\u8bdd\u5373\u53ef\u751f\u6210\u6574\u4e2a\u7cfb\u7edf\u3011\u4f01\u4e1a\u7ea7AI\u4f4e\u4ee3\u7801\u5e73\u53f0\uff0c\u4e00\u952e\u751f\u6210\u524d\u540e\u7aef\u4ee3\u7801\u751a\u81f3\u6574\u4e2a\u7cfb\u7edf\u3002 AI Skills \u4e00\u53e5\u8bdd\u753b\u6d41\u7a0b\u3001\u8bbe\u8ba1\u8868\u5355\u3001\u751f\u6210\u62a5\u8868\u3001\u5927\u5c4f\u3002\u5185\u7f6e AI\u5e94\u7528\u5e73\u53f0\u6db5\u76d6\uff1aAI\u804a\u5929\u3001\u77e5\u8bc6\u5e93\u3001\u6d41\u7a0b\u7f16\u6392\u3001MCP\u63d2\u4ef6\u7b49\uff0c\u517c\u5bb9\u4e3b\u6d41\u5927\u6a21\u578b\u3002",
+      "stars_today": 0,
+      "total_stars": 47481,
+      "language": "Java"
+    }
+  ]
+}
