@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-30T12:33:16.862214",
+  "github": [
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": 238327,
+      "stars_delta": 0,
+      "forks": 48499,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "fix(gateway): bust agent cache on remaining compaction-routing config keys",
+      "new_releases": [
+        "v2026.8.27",
+        "v2026.8.19",
+        "v2026.8.18",
+        "v2026.8.16.2",
+        "v2026.8.16"
+      ]
+    },
+    {
+      "repo": "openai/openai-python",
+      "stars": 31506,
+      "stars_delta": 0,
+      "forks": 5150,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "fix: avoid repeated numpy checks for embeddings (#3757)",
+      "new_releases": [
+        "v3.6.0",
+        "v3.5.0",
+        "v3.4.0",
+        "v3.3.1",
+        "v3.3.0"
+      ]
+    },
+    {
+      "repo": "anthropics/anthropic-sdk-python",
+      "stars": 3870,
+      "stars_delta": 0,
+      "forks": 834,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "release: 1.2.0",
+      "new_releases": [
+        "v1.2.0",
+        "v1.1.0",
+        "v1.0.0",
+        "v0.125.0",
+        "v0.124.0"
+      ]
+    },
+    {
+      "repo": "microsoft/autogen",
+      "stars": 60699,
+      "stars_delta": 0,
+      "forks": 9164,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "Update maintenance mode banner in readme (#7521)",
+      "new_releases": [
+        "python-v0.7.5",
+        "python-v0.7.4",
+        "python-v0.7.3",
+        "python-v0.7.2",
+        "python-v0.7.1"
+      ]
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "stars": 145277,
+      "stars_delta": 0,
+      "forks": 24250,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "fix(core): avoid mutation in google-genai standard content (#40023)",
+      "new_releases": [
+        "langchain==1.4.0a2",
+        "langchain==1.4.0a1",
+        "langchain==1.3.18",
+        "langchain-fireworks==1.6.1",
+        "langchain-core==1.6.1"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": []
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": [
+    {
+      "repo": "langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+      "stars_today": 0,
+      "total_stars": 153885,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars_today": 0,
+      "total_stars": 101804,
+      "language": "Python"
+    },
+    {
+      "repo": "OpenHands/OpenHands",
+      "description": "\ud83d\ude4c OpenHands: AI-Driven Development",
+      "stars_today": 0,
+      "total_stars": 85611,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories",
+      "stars_today": 0,
+      "total_stars": 81125,
+      "language": "Python"
+    },
+    {
+      "repo": "shareAI-lab/learn-claude-code",
+      "description": "Bash is all you need -  A nano claude code\u2013like \u300cagent harness\u300d, built from 0 to 1",
+      "stars_today": 0,
+      "total_stars": 75650,
+      "language": "Python"
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and",
+      "stars_today": 0,
+      "total_stars": 75226,
+      "language": "Python"
+    },
+    {
+      "repo": "hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars_today": 0,
+      "total_stars": 74447,
+      "language": "Python"
+    },
+    {
+      "repo": "headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+      "stars_today": 0,
+      "total_stars": 68066,
+      "language": "Python"
+    }
+  ]
+}
