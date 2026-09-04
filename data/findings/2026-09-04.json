@@ -1,0 +1,193 @@
+{
+  "date": "2026-09-04T11:57:04.776547",
+  "github": [
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": 241204,
+      "stars_delta": 0,
+      "forks": 49438,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "fix(reasoning): retry after a mandatory-reasoning 400 resends the user's own effort",
+      "new_releases": [
+        "v2026.8.31",
+        "v2026.8.27",
+        "v2026.8.19",
+        "v2026.8.18",
+        "v2026.8.16.2"
+      ]
+    },
+    {
+      "repo": "openai/openai-python",
+      "stars": 31548,
+      "stars_delta": 0,
+      "forks": 5166,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "fix(api): accept incomplete web search call statuses (#3786)",
+      "new_releases": [
+        "v3.8.0",
+        "v3.7.0",
+        "v3.6.0",
+        "v3.5.0",
+        "v3.4.0"
+      ]
+    },
+    {
+      "repo": "anthropics/anthropic-sdk-python",
+      "stars": 3881,
+      "stars_delta": 0,
+      "forks": 839,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "release: 1.3.0",
+      "new_releases": [
+        "v1.3.0",
+        "v1.2.0",
+        "v1.1.0",
+        "v1.0.0",
+        "v0.125.0"
+      ]
+    },
+    {
+      "repo": "microsoft/autogen",
+      "stars": 60797,
+      "stars_delta": 0,
+      "forks": 9178,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "Update maintenance mode banner in readme (#7521)",
+      "new_releases": [
+        "python-v0.7.5",
+        "python-v0.7.4",
+        "python-v0.7.3",
+        "python-v0.7.2",
+        "python-v0.7.1"
+      ]
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "stars": 145626,
+      "stars_delta": 0,
+      "forks": 24310,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "docs: add openwiki (#40183)",
+      "new_releases": [
+        "langchain==1.4.0",
+        "langchain-anthropic==1.7.1",
+        "langchain==1.4.0a4",
+        "langchain==1.4.0a3",
+        "langchain==1.4.0a2"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/daybreak-for-frontline-defenders",
+          "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+          "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+          "date": "Thu, 03 Sep 2026 13:15:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/legora-financial-statement-review-with-astra",
+          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+          "date": "Thu, 03 Sep 2026 12:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/playco-game-prototyping-with-astra",
+          "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+          "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+          "date": "Thu, 03 Sep 2026 12:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/safety-overview-gpt-6-astra",
+          "title": "Safety overview: GPT-6 Astra",
+          "link": "https://openai.com/index/safety-overview-gpt-6-astra",
+          "date": "Thu, 03 Sep 2026 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/gpt-4",
+          "title": "GPT-4",
+          "link": "https://openai.com/index/gpt-4",
+          "date": "Tue, 14 Mar 2023 00:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": [
+    {
+      "repo": "langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+      "stars_today": 0,
+      "total_stars": 154420,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars_today": 0,
+      "total_stars": 102463,
+      "language": "Python"
+    },
+    {
+      "repo": "OpenHands/OpenHands",
+      "description": "\ud83d\ude4c OpenHands: AI-Driven Development",
+      "stars_today": 0,
+      "total_stars": 86152,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories",
+      "stars_today": 0,
+      "total_stars": 81349,
+      "language": "Python"
+    },
+    {
+      "repo": "datawhalechina/hello-agents",
+      "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
+      "stars_today": 0,
+      "total_stars": 76943,
+      "language": "Python"
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX",
+      "stars_today": 0,
+      "total_stars": 75595,
+      "language": "Python"
+    },
+    {
+      "repo": "hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars_today": 0,
+      "total_stars": 74575,
+      "language": "Python"
+    },
+    {
+      "repo": "headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+      "stars_today": 0,
+      "total_stars": 68887,
+      "language": "Python"
+    }
+  ]
+}
