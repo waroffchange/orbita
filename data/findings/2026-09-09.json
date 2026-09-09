@@ -1,0 +1,205 @@
+{
+  "date": "2026-09-09T12:07:15.631987",
+  "github": [
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": 243661,
+      "stars_delta": 0,
+      "forks": 50258,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "fmt(js): `npm run fix` on merge (#106554)",
+      "new_releases": [
+        "v2026.9.7",
+        "v2026.8.31",
+        "v2026.8.27",
+        "v2026.8.19",
+        "v2026.8.18"
+      ]
+    },
+    {
+      "repo": "openai/openai-python",
+      "stars": 31601,
+      "stars_delta": 0,
+      "forks": 5189,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "release: 3.10.0 (#3822)",
+      "new_releases": [
+        "v3.10.0",
+        "v3.9.0",
+        "v3.8.0",
+        "v3.7.0",
+        "v3.6.0"
+      ]
+    },
+    {
+      "repo": "anthropics/anthropic-sdk-python",
+      "stars": 3893,
+      "stars_delta": 0,
+      "forks": 846,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "Merge pull request #1905 from anthropics/release-please--branches--main--changes--next",
+      "new_releases": [
+        "v1.4.0",
+        "v1.3.0",
+        "v1.2.0",
+        "v1.1.0",
+        "v1.0.0"
+      ]
+    },
+    {
+      "repo": "microsoft/autogen",
+      "stars": 60891,
+      "stars_delta": 0,
+      "forks": 9200,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "Update maintenance mode banner in readme (#7521)",
+      "new_releases": [
+        "python-v0.7.5",
+        "python-v0.7.4",
+        "python-v0.7.3",
+        "python-v0.7.2",
+        "python-v0.7.1"
+      ]
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "stars": 146000,
+      "stars_delta": 0,
+      "forks": 24386,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "docs: update OpenWiki (#40218)",
+      "new_releases": [
+        "langchain-openai==1.6.1",
+        "langchain-core==1.6.2",
+        "langchain==1.4.0",
+        "langchain-anthropic==1.7.1",
+        "langchain==1.4.0a4"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/codex-quantum-computing-experiments",
+          "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+          "link": "https://openai.com/index/codex-quantum-computing-experiments",
+          "date": "Tue, 08 Sep 2026 17:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/the-work-now-within-reach",
+          "title": "The Work Now Within Reach",
+          "link": "https://openai.com/index/the-work-now-within-reach",
+          "date": "Tue, 08 Sep 2026 13:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/introducing-chatgpt-images-2-5",
+          "title": "Introducing ChatGPT Images 2.5",
+          "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
+          "date": "Tue, 08 Sep 2026 11:30:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/navier-stokes-solution",
+          "title": "On the Navier\u2013Stokes Millennium Prize Problem",
+          "link": "https://openai.com/index/navier-stokes-solution",
+          "date": "Tue, 08 Sep 2026 10:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/teen-development-research-grants",
+          "title": "Funding grants for new research into AI and teen development",
+          "link": "https://openai.com/index/teen-development-research-grants",
+          "date": "Tue, 08 Sep 2026 09:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+          "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+          "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+          "date": "Tue, 08 Sep 2026 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/1password",
+          "title": "1Password increases engineering productivity 21% with Codex",
+          "link": "https://openai.com/index/1password",
+          "date": "Tue, 08 Sep 2026 00:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": [
+    {
+      "repo": "langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+      "stars_today": 0,
+      "total_stars": 155184,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars_today": 0,
+      "total_stars": 103560,
+      "language": "Python"
+    },
+    {
+      "repo": "OpenHands/OpenHands",
+      "description": "\ud83d\ude4c OpenHands: AI-Driven Development",
+      "stars_today": 0,
+      "total_stars": 87014,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories",
+      "stars_today": 0,
+      "total_stars": 82114,
+      "language": "Python"
+    },
+    {
+      "repo": "datawhalechina/hello-agents",
+      "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
+      "stars_today": 0,
+      "total_stars": 77967,
+      "language": "Python"
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX",
+      "stars_today": 0,
+      "total_stars": 75926,
+      "language": "Python"
+    },
+    {
+      "repo": "hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars_today": 0,
+      "total_stars": 74672,
+      "language": "Python"
+    },
+    {
+      "repo": "headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+      "stars_today": 0,
+      "total_stars": 70954,
+      "language": "Python"
+    }
+  ]
+}
