@@ -1,0 +1,181 @@
+{
+  "date": "2026-09-10T12:01:23.070706",
+  "github": [
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": 244062,
+      "stars_delta": 0,
+      "forks": 50422,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "docs(agent): clarify detached fork lifecycle boundary",
+      "new_releases": [
+        "v2026.9.7",
+        "v2026.8.31",
+        "v2026.8.27",
+        "v2026.8.19",
+        "v2026.8.18"
+      ]
+    },
+    {
+      "repo": "openai/openai-python",
+      "stars": 31609,
+      "stars_delta": 0,
+      "forks": 5187,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "fix: preserve finalized output on null response completion (#3345)",
+      "new_releases": [
+        "v3.11.0",
+        "v3.10.0",
+        "v3.9.0",
+        "v3.8.0",
+        "v3.7.0"
+      ]
+    },
+    {
+      "repo": "anthropics/anthropic-sdk-python",
+      "stars": 3897,
+      "stars_delta": 0,
+      "forks": 847,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "Merge pull request #1905 from anthropics/release-please--branches--main--changes--next",
+      "new_releases": [
+        "v1.4.0",
+        "v1.3.0",
+        "v1.2.0",
+        "v1.1.0",
+        "v1.0.0"
+      ]
+    },
+    {
+      "repo": "microsoft/autogen",
+      "stars": 60914,
+      "stars_delta": 0,
+      "forks": 9205,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "Update maintenance mode banner in readme (#7521)",
+      "new_releases": [
+        "python-v0.7.5",
+        "python-v0.7.4",
+        "python-v0.7.3",
+        "python-v0.7.2",
+        "python-v0.7.1"
+      ]
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "stars": 146060,
+      "stars_delta": 0,
+      "forks": 24396,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "release(openai): 1.6.2 (#40339)",
+      "new_releases": [
+        "langchain-openai==1.6.2",
+        "langchain-openai==1.6.1",
+        "langchain-core==1.6.2",
+        "langchain==1.4.0",
+        "langchain-anthropic==1.7.1"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/ai-policy-window",
+          "title": "The AI policy window is open. We need to act.",
+          "link": "https://openai.com/index/ai-policy-window",
+          "date": "Wed, 09 Sep 2026 13:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/gpt-6-astra-next-generation-work",
+          "title": "GPT-6 Astra: The next generation in intelligence for work",
+          "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
+          "date": "Wed, 09 Sep 2026 11:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+          "title": "Paul Christiano joins OpenAI Foundation Board",
+          "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+          "date": "Wed, 09 Sep 2026 17:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": [
+    {
+      "repo": "langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+      "stars_today": 0,
+      "total_stars": 155320,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars_today": 0,
+      "total_stars": 104385,
+      "language": "Python"
+    },
+    {
+      "repo": "OpenHands/OpenHands",
+      "description": "\ud83d\ude4c OpenHands: AI-Driven Development",
+      "stars_today": 0,
+      "total_stars": 87202,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories",
+      "stars_today": 0,
+      "total_stars": 82196,
+      "language": "Python"
+    },
+    {
+      "repo": "datawhalechina/hello-agents",
+      "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
+      "stars_today": 0,
+      "total_stars": 78204,
+      "language": "Python"
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX",
+      "stars_today": 0,
+      "total_stars": 75975,
+      "language": "Python"
+    },
+    {
+      "repo": "hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars_today": 0,
+      "total_stars": 74689,
+      "language": "Python"
+    },
+    {
+      "repo": "headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+      "stars_today": 0,
+      "total_stars": 71225,
+      "language": "Python"
+    }
+  ]
+}
