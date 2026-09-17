@@ -1,0 +1,241 @@
+{
+  "date": "2026-09-17T12:23:23.608727",
+  "github": [
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": 246388,
+      "stars_delta": 0,
+      "forks": 51553,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "fix(upstage): default new Solar models to the 512K context window",
+      "new_releases": [
+        "v2026.9.14",
+        "v2026.9.11",
+        "v2026.9.7",
+        "v2026.8.31",
+        "v2026.8.27"
+      ]
+    },
+    {
+      "repo": "openai/openai-python",
+      "stars": 31634,
+      "stars_delta": 0,
+      "forks": 5498,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "fix: preserve chat stream moderation results (#3864)",
+      "new_releases": [
+        "v3.14.1",
+        "v3.14.0",
+        "v3.13.0",
+        "v3.12.0",
+        "v3.11.0"
+      ]
+    },
+    {
+      "repo": "anthropics/anthropic-sdk-python",
+      "stars": 3905,
+      "stars_delta": 0,
+      "forks": 855,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "Merge pull request #1937 from anthropics/release-please--branches--main--changes--next",
+      "new_releases": [
+        "v1.6.0",
+        "v1.5.0",
+        "v1.4.0",
+        "v1.3.0",
+        "v1.2.0"
+      ]
+    },
+    {
+      "repo": "microsoft/autogen",
+      "stars": 61016,
+      "stars_delta": 0,
+      "forks": 9228,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "Update maintenance mode banner in readme (#7521)",
+      "new_releases": [
+        "python-v0.7.5",
+        "python-v0.7.4",
+        "python-v0.7.3",
+        "python-v0.7.2",
+        "python-v0.7.1"
+      ]
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "stars": 146519,
+      "stars_delta": 0,
+      "forks": 24500,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "release(langchain): 1.4.1 (#40498)",
+      "new_releases": [
+        "langchain==1.4.1",
+        "langchain-core==1.6.3",
+        "langchain-anthropic==1.7.2",
+        "langchain-openai==1.6.2",
+        "langchain-openai==1.6.1"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+          "title": "Helping older adults use AI in everyday life",
+          "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+          "date": "Wed, 16 Sep 2026 16:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/reimagining-advertising-with-ai",
+          "title": "Reimagining advertising with AI",
+          "link": "https://openai.com/index/reimagining-advertising-with-ai",
+          "date": "Wed, 16 Sep 2026 13:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+          "title": "How to connect AI usage to business value",
+          "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+          "date": "Wed, 16 Sep 2026 12:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/model-misalignment-reporting-framework",
+          "title": "Our framework for reporting model misalignment",
+          "link": "https://openai.com/index/model-misalignment-reporting-framework",
+          "date": "Wed, 16 Sep 2026 17:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/unlocking-new-ways-of-working",
+          "title": "How workers are unlocking new ways of working",
+          "link": "https://openai.com/index/unlocking-new-ways-of-working",
+          "date": "Wed, 16 Sep 2026 09:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-cyber-special-operations",
+          "title": "\u201cCyber Special Operations\u201d: China-linked influence planning",
+          "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-cyber-special-operations",
+          "date": "Sun, 01 Feb 2026 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-fish-food",
+          "title": "Operation \u201cFish Food\u201d: Russia-origin content farm activity",
+          "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-fish-food",
+          "date": "Sun, 01 Feb 2026 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-trolling-stone",
+          "title": "Operation \u201cTrolling Stone\u201d: Russia-linked influence activity",
+          "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-trolling-stone",
+          "date": "Sun, 01 Feb 2026 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-no-bell",
+          "title": "Operation \u201cNo Bell\u201d: Coordinated criticism of the US and allies",
+          "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-no-bell",
+          "date": "Sun, 01 Feb 2026 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-date-bait",
+          "title": "Operation \u201cDate Bait\u201d: AI-enabled scam targeting loveseekers",
+          "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-date-bait",
+          "date": "Sun, 01 Feb 2026 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-false-witness",
+          "title": "Operation \u201cFalse Witness\u201d: Fake recovery service impersonating authorities",
+          "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-false-witness",
+          "date": "Sun, 01 Feb 2026 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-romance-scam",
+          "title": "Romance scams: AI-enabled romance scam workflows",
+          "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-romance-scam",
+          "date": "Sun, 01 Feb 2026 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/disrupting-malicious-uses-of-ai-silver-lining-playbook",
+          "title": "Silver lining playbook: Likely China-origin activity targeting US persons",
+          "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-silver-lining-playbook",
+          "date": "Sun, 01 Feb 2026 00:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": [
+    {
+      "repo": "langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+      "stars_today": 0,
+      "total_stars": 156101,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars_today": 0,
+      "total_stars": 107261,
+      "language": "Python"
+    },
+    {
+      "repo": "OpenHands/OpenHands",
+      "description": "\ud83d\ude4c OpenHands: AI-Driven Development",
+      "stars_today": 0,
+      "total_stars": 88260,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories",
+      "stars_today": 0,
+      "total_stars": 82575,
+      "language": "Python"
+    },
+    {
+      "repo": "datawhalechina/hello-agents",
+      "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
+      "stars_today": 0,
+      "total_stars": 79555,
+      "language": "Python"
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX",
+      "stars_today": 0,
+      "total_stars": 76285,
+      "language": "Python"
+    },
+    {
+      "repo": "hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars_today": 0,
+      "total_stars": 74830,
+      "language": "Python"
+    },
+    {
+      "repo": "headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+      "stars_today": 0,
+      "total_stars": 72633,
+      "language": "Python"
+    }
+  ]
+}
