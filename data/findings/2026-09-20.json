@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-20T11:58:59.633042",
+  "github": [
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": 247329,
+      "stars_delta": 0,
+      "forks": 51993,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "test(state): pin the divergent-mid-prefix rewrite (anchor + counters)",
+      "new_releases": [
+        "v2026.9.14",
+        "v2026.9.11",
+        "v2026.9.7",
+        "v2026.8.31",
+        "v2026.8.27"
+      ]
+    },
+    {
+      "repo": "openai/openai-python",
+      "stars": 31654,
+      "stars_delta": 0,
+      "forks": 5822,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "feat(api): add session environment reset events (#3913)",
+      "new_releases": [
+        "v3.16.2",
+        "v3.16.1",
+        "v3.16.0",
+        "v3.15.0",
+        "v3.14.1"
+      ]
+    },
+    {
+      "repo": "anthropics/anthropic-sdk-python",
+      "stars": 3908,
+      "stars_delta": 0,
+      "forks": 857,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "Merge pull request #1939 from anthropics/release-please--branches--main--changes--next",
+      "new_releases": [
+        "v1.7.0",
+        "v1.6.0",
+        "v1.5.0",
+        "v1.4.0",
+        "v1.3.0"
+      ]
+    },
+    {
+      "repo": "microsoft/autogen",
+      "stars": 61071,
+      "stars_delta": 0,
+      "forks": 9238,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "Update maintenance mode banner in readme (#7521)",
+      "new_releases": [
+        "python-v0.7.5",
+        "python-v0.7.4",
+        "python-v0.7.3",
+        "python-v0.7.2",
+        "python-v0.7.1"
+      ]
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "stars": 146715,
+      "stars_delta": 0,
+      "forks": 24535,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "chore(model-profiles): refresh model profile data (#40665)",
+      "new_releases": [
+        "langchain==1.4.2",
+        "langchain-typesafe==0.0.1a2",
+        "langchain-typesafe==0.0.1a1",
+        "langchain==1.4.1",
+        "langchain-core==1.6.3"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": []
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": [
+    {
+      "repo": "langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+      "stars_today": 0,
+      "total_stars": 156565,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars_today": 0,
+      "total_stars": 107705,
+      "language": "Python"
+    },
+    {
+      "repo": "OpenHands/OpenHands",
+      "description": "\ud83d\ude4c OpenHands: AI-Driven Development",
+      "stars_today": 0,
+      "total_stars": 88598,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories",
+      "stars_today": 0,
+      "total_stars": 82739,
+      "language": "Python"
+    },
+    {
+      "repo": "datawhalechina/hello-agents",
+      "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
+      "stars_today": 0,
+      "total_stars": 80035,
+      "language": "Python"
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX",
+      "stars_today": 0,
+      "total_stars": 76467,
+      "language": "Python"
+    },
+    {
+      "repo": "hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars_today": 0,
+      "total_stars": 74910,
+      "language": "Python"
+    },
+    {
+      "repo": "headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+      "stars_today": 0,
+      "total_stars": 73186,
+      "language": "Python"
+    }
+  ]
+}
