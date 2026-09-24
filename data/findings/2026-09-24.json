@@ -1,0 +1,211 @@
+{
+  "date": "2026-09-24T12:30:29.720212",
+  "github": [
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": 248579,
+      "stars_delta": 0,
+      "forks": 52571,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "test(config): cover doctor --fix in the every-seeder matrix",
+      "new_releases": [
+        "v2026.9.24",
+        "v2026.9.21",
+        "v2026.9.14",
+        "v2026.9.11",
+        "v2026.9.7"
+      ]
+    },
+    {
+      "repo": "openai/openai-python",
+      "stars": 31686,
+      "stars_delta": 0,
+      "forks": 6038,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "feat(api): add Cyber access programs to Responses (#3956)",
+      "new_releases": [
+        "v3.19.2",
+        "v3.19.1",
+        "v3.19.0",
+        "v3.18.0",
+        "v3.17.0"
+      ]
+    },
+    {
+      "repo": "anthropics/anthropic-sdk-python",
+      "stars": 3916,
+      "stars_delta": 0,
+      "forks": 862,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "Merge pull request #1946 from anthropics/release-please--branches--main--changes--next",
+      "new_releases": [
+        "v1.8.0",
+        "v1.7.0",
+        "v1.6.0",
+        "v1.5.0",
+        "v1.4.0"
+      ]
+    },
+    {
+      "repo": "microsoft/autogen",
+      "stars": 61139,
+      "stars_delta": 0,
+      "forks": 9248,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "Update maintenance mode banner in readme (#7521)",
+      "new_releases": [
+        "python-v0.7.5",
+        "python-v0.7.4",
+        "python-v0.7.3",
+        "python-v0.7.2",
+        "python-v0.7.1"
+      ]
+    },
+    {
+      "repo": "langchain-ai/langchain",
+      "stars": 146982,
+      "stars_delta": 0,
+      "forks": 24591,
+      "forks_delta": 0,
+      "issues_delta": 0,
+      "new_commits": 0,
+      "latest_commit_msg": "release(openai): 1.6.6 (#40800)",
+      "new_releases": [
+        "langchain-openai==1.6.6",
+        "langchain-openai==1.6.5",
+        "langchain-anthropic==1.7.4",
+        "langchain-openrouter==0.2.9",
+        "langchain-openai==1.6.4"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/two-years-of-openai-academy",
+          "title": "Two years of OpenAI Academy",
+          "link": "https://openai.com/index/two-years-of-openai-academy",
+          "date": "Wed, 23 Sep 2026 16:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/sam-altman-un-security-council-remarks",
+          "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
+          "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+          "date": "Wed, 23 Sep 2026 12:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+          "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+          "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+          "date": "Wed, 23 Sep 2026 12:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+          "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
+          "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+          "date": "Wed, 23 Sep 2026 12:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/ringg",
+          "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
+          "link": "https://openai.com/index/ringg",
+          "date": "Wed, 23 Sep 2026 12:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/introducing-mentalhealthbench",
+          "title": "Introducing MentalHealthBench",
+          "link": "https://openai.com/index/introducing-mentalhealthbench",
+          "date": "Wed, 23 Sep 2026 10:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+          "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+          "link": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+          "date": "Wed, 23 Sep 2026 02:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/airbnb-gpt-6-astra",
+          "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+          "link": "https://openai.com/index/airbnb-gpt-6-astra",
+          "date": "Wed, 23 Sep 2026 01:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": [
+    {
+      "repo": "langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cl",
+      "stars_today": 0,
+      "total_stars": 157064,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars_today": 0,
+      "total_stars": 108398,
+      "language": "Python"
+    },
+    {
+      "repo": "OpenHands/OpenHands",
+      "description": "\ud83d\ude4c OpenHands: AI-Driven Development",
+      "stars_today": 0,
+      "total_stars": 89058,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories",
+      "stars_today": 0,
+      "total_stars": 82937,
+      "language": "Python"
+    },
+    {
+      "repo": "datawhalechina/hello-agents",
+      "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
+      "stars_today": 0,
+      "total_stars": 80741,
+      "language": "Python"
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX",
+      "stars_today": 0,
+      "total_stars": 76688,
+      "language": "Python"
+    },
+    {
+      "repo": "headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+      "stars_today": 0,
+      "total_stars": 73684,
+      "language": "Python"
+    },
+    {
+      "repo": "bojieli/ai-agent-book",
+      "description": "\u300a\u6df1\u5165\u7406\u89e3 AI Agent\uff1a\u8bbe\u8ba1\u539f\u7406\u4e0e\u5de5\u7a0b\u5b9e\u8df5\u300b\uff08\u674e\u535a\u6770 \u8457\uff09\u5f00\u6e90\u4e3b\u4ed3\u5e93\uff1a\u5168\u4e66\u6b63\u6587\u3001\u7f16\u8bd1\u7248 PDF \u4e0e\u6309\u7ae0\u914d\u5957\u4ee3\u7801",
+      "stars_today": 0,
+      "total_stars": 50716,
+      "language": "Python"
+    }
+  ]
+}
