@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-26T12:01:37.340559",
+  "github": [],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/proaction",
+          "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+          "link": "https://openai.com/index/proaction",
+          "date": "Fri, 25 Sep 2026 19:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": []
+}
