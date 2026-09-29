@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-29T13:41:49.638099",
+  "github": [],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/how-we-will-do-better-for-australia",
+          "title": "How we will do better for Australia",
+          "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+          "date": "Mon, 28 Sep 2026 19:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+          "title": "Towards safety cases for frontier AI training",
+          "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+          "date": "Mon, 28 Sep 2026 19:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+          "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+          "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+          "date": "Mon, 28 Sep 2026 07:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/form/codex-originals",
+          "title": "Are you a Codex Original?",
+          "link": "https://openai.com/form/codex-originals",
+          "date": "Mon, 28 Sep 2026 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/basis-tax-workbook-with-astra",
+          "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+          "link": "https://openai.com/index/basis-tax-workbook-with-astra",
+          "date": "Mon, 28 Sep 2026 00:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": []
+}
