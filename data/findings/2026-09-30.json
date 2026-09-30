@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-30T13:18:28.308767",
+  "github": [],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/introducing-gpt-6-1-sol",
+          "title": "Introducing GPT-6.1 Sol",
+          "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+          "date": "Tue, 29 Sep 2026 10:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/devday-2026-recap",
+          "title": "DevDay 2026 Recap",
+          "link": "https://openai.com/index/devday-2026-recap",
+          "date": "Tue, 29 Sep 2026 10:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/introducing-dots",
+          "title": "Introducing dots",
+          "link": "https://openai.com/index/introducing-dots",
+          "date": "Tue, 29 Sep 2026 00:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": []
+}
