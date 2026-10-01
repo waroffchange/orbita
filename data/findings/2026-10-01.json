@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-01T14:08:20.849067",
+  "github": [],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+          "title": "Disrupting a coordinated model-distillation campaign",
+          "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+          "date": "Wed, 30 Sep 2026 10:30:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+          "title": "Helping small businesses put AI to work",
+          "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+          "date": "Wed, 30 Sep 2026 10:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": []
+}
