@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-02T13:31:26.124055",
+  "github": [],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/the-eternal-complement",
+          "title": "The eternal complement",
+          "link": "https://openai.com/index/the-eternal-complement",
+          "date": "Thu, 01 Oct 2026 17:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/albertsons-reimagining-retail",
+          "title": "How Albertsons Companies is reimagining retail from the inside out",
+          "link": "https://openai.com/index/albertsons-reimagining-retail",
+          "date": "Thu, 01 Oct 2026 16:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/the-den-family-social",
+          "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+          "link": "https://openai.com/index/the-den-family-social",
+          "date": "Thu, 01 Oct 2026 00:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": []
+}
