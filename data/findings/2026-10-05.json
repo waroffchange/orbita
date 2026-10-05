@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-05T15:30:42.029560",
+  "github": [],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/eu-text-provenance",
+          "title": "Our approach to EU text provenance rules",
+          "link": "https://openai.com/index/eu-text-provenance",
+          "date": "Mon, 05 Oct 2026 15:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+          "title": "Building advertising for the way people use AI",
+          "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+          "date": "Mon, 05 Oct 2026 10:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": []
+}
