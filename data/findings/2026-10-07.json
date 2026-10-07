@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-07T14:10:18.496296",
+  "github": [],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/jump-trading",
+          "title": "How Jump Trading is scaling quant research with ChatGPT",
+          "link": "https://openai.com/index/jump-trading",
+          "date": "Tue, 06 Oct 2026 12:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "title": "Sharing AI progress in mathematics",
+          "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "date": "Tue, 06 Oct 2026 12:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/advancing-computer-use-with-ironclad",
+          "title": "Advancing computer use with Ironclad",
+          "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
+          "date": "Tue, 06 Oct 2026 10:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/atlassian-partnership",
+          "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "link": "https://openai.com/index/atlassian-partnership",
+          "date": "Tue, 06 Oct 2026 16:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": []
+}
