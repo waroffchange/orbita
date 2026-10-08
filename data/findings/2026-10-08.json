@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-08T14:20:16.345195",
+  "github": [],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": [
+        {
+          "id": "A Note on Our Fundraise",
+          "title": "A Note on Our Fundraise",
+          "link": "https://nousresearch.com/blog",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/teens-learn-and-plan",
+          "title": "Helping teens learn, plan, and shape the future of AI",
+          "link": "https://openai.com/index/teens-learn-and-plan",
+          "date": "Wed, 07 Oct 2026 12:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/radisson",
+          "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+          "link": "https://openai.com/index/radisson",
+          "date": "Wed, 07 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/gpt-6-for-everyone",
+          "title": "GPT-6 and Intelligent UI for everyone",
+          "link": "https://openai.com/index/gpt-6-for-everyone",
+          "date": "Wed, 07 Oct 2026 00:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": []
+}
