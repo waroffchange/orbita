@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-09T14:05:18.713088",
+  "github": [],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/sophos",
+          "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "link": "https://openai.com/index/sophos",
+          "date": "Fri, 09 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/oracle",
+          "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+          "link": "https://openai.com/index/oracle",
+          "date": "Thu, 08 Oct 2026 16:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/pollo-ai",
+          "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+          "link": "https://openai.com/index/pollo-ai",
+          "date": "Thu, 08 Oct 2026 12:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/legalon-halves-codex-costs",
+          "title": "LegalOn halves Codex costs while maintaining development speed",
+          "link": "https://openai.com/index/legalon-halves-codex-costs",
+          "date": "Thu, 08 Oct 2026 12:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+          "title": "Disrupting AI-enabled \u201cfalse front\u201d operations",
+          "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+          "date": "Thu, 08 Oct 2026 00:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": []
+}
