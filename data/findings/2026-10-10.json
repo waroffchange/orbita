@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-10T13:15:23.860848",
+  "github": [],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/asana-browser-agent",
+          "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+          "link": "https://openai.com/index/asana-browser-agent",
+          "date": "Fri, 09 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/business/guides-and-resources/chatgpt-business-smb-guide",
+          "title": "Think Bigger: How Small Teams Win with ChatGPT",
+          "link": "https://openai.com/business/guides-and-resources/chatgpt-business-smb-guide",
+          "date": "Thu, 22 Jan 2026 21:12:55 GMT"
+        },
+        {
+          "id": "https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents",
+          "title": "A Practical Guide to Building AI Agents",
+          "link": "https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents",
+          "date": "Thu, 15 Jan 2026 00:25:16 GMT"
+        },
+        {
+          "id": "https://openai.com/business/guides-and-resources/a-practical-guide-to-building-with-ai",
+          "title": "Building with the GPT-5 Model Series: A Practical Guide",
+          "link": "https://openai.com/business/guides-and-resources/a-practical-guide-to-building-with-ai",
+          "date": "Thu, 15 Jan 2026 00:09:56 GMT"
+        },
+        {
+          "id": "https://openai.com/business/guides-and-resources/inside-gpt5-our-best-model-for-work",
+          "title": "Inside GPT-5 for Work",
+          "link": "https://openai.com/business/guides-and-resources/inside-gpt5-our-best-model-for-work",
+          "date": "Wed, 14 Jan 2026 21:43:17 GMT"
+        },
+        {
+          "id": "https://openai.com/business/guides-and-resources/how-openai-uses-codex",
+          "title": "How OpenAI Uses Codex to Accelerate Engineering",
+          "link": "https://openai.com/business/guides-and-resources/how-openai-uses-codex",
+          "date": "Wed, 14 Jan 2026 21:27:09 GMT"
+        },
+        {
+          "id": "https://openai.com/business/learn/using-codex-across-the-software-development-lifecycle",
+          "title": "Using Codex across the software development lifecycle",
+          "link": "https://openai.com/business/learn/using-codex-across-the-software-development-lifecycle",
+          "date": "Thu, 20 Nov 2025 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/business/learn/how-openai-uses-chatgpt-atlas-at-work",
+          "title": "How OpenAI uses ChatGPT Atlas at work",
+          "link": "https://openai.com/business/learn/how-openai-uses-chatgpt-atlas-at-work",
+          "date": "Tue, 18 Nov 2025 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/business/learn/gpt-5-our-best-model-for-work",
+          "title": "GPT-5: Our best model for work",
+          "link": "https://openai.com/business/learn/gpt-5-our-best-model-for-work",
+          "date": "Thu, 07 Aug 2025 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/business/learn/delegate-work-to-chatgpt-agent",
+          "title": "Delegate work to ChatGPT agent",
+          "link": "https://openai.com/business/learn/delegate-work-to-chatgpt-agent",
+          "date": "Wed, 06 Aug 2025 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/business/learn/personalize-chatgpt-with-custom-instructions",
+          "title": "Personalize ChatGPT with custom instructions",
+          "link": "https://openai.com/business/learn/personalize-chatgpt-with-custom-instructions",
+          "date": "Mon, 12 May 2025 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/business/learn/collaborate-and-write-with-gpt-4o",
+          "title": "Collaborate and write with GPT-4o",
+          "link": "https://openai.com/business/learn/collaborate-and-write-with-gpt-4o",
+          "date": "Thu, 08 May 2025 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/business/learn/create-on-brand-visuals-with-image-generation",
+          "title": "Create on-brand visuals with image generation",
+          "link": "https://openai.com/business/learn/create-on-brand-visuals-with-image-generation",
+          "date": "Thu, 08 May 2025 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/business/learn/automate-complex-workflows-with-openai-o3",
+          "title": "Automate complex workflows with OpenAI o3",
+          "link": "https://openai.com/business/learn/automate-complex-workflows-with-openai-o3",
+          "date": "Thu, 08 May 2025 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/business/learn/connect-internal-knowledge-from-google-drive",
+          "title": "Connect internal knowledge from Google Drive",
+          "link": "https://openai.com/business/learn/connect-internal-knowledge-from-google-drive",
+          "date": "Thu, 08 May 2025 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/business/learn/prototyping-with-canvas-in-chatgpt",
+          "title": "Prototyping with canvas in ChatGPT",
+          "link": "https://openai.com/business/learn/prototyping-with-canvas-in-chatgpt",
+          "date": "Sun, 13 Apr 2025 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/business/learn/market-research-with-chatgpt",
+          "title": "Market research with ChatGPT",
+          "link": "https://openai.com/business/learn/market-research-with-chatgpt",
+          "date": "Sun, 13 Apr 2025 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/business/learn/creating-a-contextual-workspace-in-chatgpt",
+          "title": "Creating a contextual workspace in ChatGPT",
+          "link": "https://openai.com/business/learn/creating-a-contextual-workspace-in-chatgpt",
+          "date": "Sun, 13 Apr 2025 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/business/learn/writing-with-canvas-in-chatgpt",
+          "title": "Writing with canvas in ChatGPT",
+          "link": "https://openai.com/business/learn/writing-with-canvas-in-chatgpt",
+          "date": "Tue, 08 Apr 2025 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/business/learn/vision-and-voice-in-chatgpt",
+          "title": "Vision and voice in ChatGPT",
+          "link": "https://openai.com/business/learn/vision-and-voice-in-chatgpt",
+          "date": "Tue, 08 Apr 2025 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/business/learn/strategic-planning-with-chatgpt",
+          "title": "Strategic planning with ChatGPT",
+          "link": "https://openai.com/business/learn/strategic-planning-with-chatgpt",
+          "date": "Tue, 08 Apr 2025 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/business/learn/shipping-code-to-your-ide-with-chatgpt",
+          "title": "Shipping code to your IDE with ChatGPT",
+          "link": "https://openai.com/business/learn/shipping-code-to-your-ide-with-chatgpt",
+          "date": "Tue, 08 Apr 2025 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/business/put-ai-to-work-for-marketing-teams",
+          "title": "Put AI to work for marketing teams",
+          "link": "https://openai.com/business/put-ai-to-work-for-marketing-teams",
+          "date": "Thu, 31 Oct 2024 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/business/solving-complex-problems-with-openai-o1-models",
+          "title": "Solving complex problems with OpenAI o1 models",
+          "link": "https://openai.com/business/solving-complex-problems-with-openai-o1-models",
+          "date": "Thu, 17 Oct 2024 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/business/put-ai-to-work-automate-and-scale-financial-operations",
+          "title": "Put AI to work: Automate and scale financial operations",
+          "link": "https://openai.com/business/put-ai-to-work-automate-and-scale-financial-operations",
+          "date": "Mon, 30 Sep 2024 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/business/put-ai-to-work-lessons-from-hundreds-of-successful-deployments",
+          "title": "Put AI to work: Lessons from hundreds of successful deployments",
+          "link": "https://openai.com/business/put-ai-to-work-lessons-from-hundreds-of-successful-deployments",
+          "date": "Tue, 10 Sep 2024 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/business/fine-tuning-gpt-4o-webinar",
+          "title": "Fine-tuning GPT-4o webinar",
+          "link": "https://openai.com/business/fine-tuning-gpt-4o-webinar",
+          "date": "Mon, 26 Aug 2024 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/business/enabling-a-data-driven-workforce-webinar",
+          "title": "Enabling a data-driven workforce",
+          "link": "https://openai.com/business/enabling-a-data-driven-workforce-webinar",
+          "date": "Thu, 08 Aug 2024 00:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": []
+}
