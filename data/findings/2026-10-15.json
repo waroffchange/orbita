@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-15T12:25:16.959644",
+  "github": [],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/amp-beyond-coding",
+          "title": "Amp puts AI agents to work beyond code with OpenAI models",
+          "link": "https://openai.com/index/amp-beyond-coding",
+          "date": "Wed, 14 Oct 2026 12:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/sentinelone",
+          "title": "SentinelOne cuts malware analysis from weeks to hours",
+          "link": "https://openai.com/index/sentinelone",
+          "date": "Wed, 14 Oct 2026 12:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/third-moment-research",
+          "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+          "link": "https://openai.com/index/third-moment-research",
+          "date": "Wed, 14 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/block-ai-powered-security",
+          "title": "How Block is building AI-powered security with OpenAI technology",
+          "link": "https://openai.com/index/block-ai-powered-security",
+          "date": "Wed, 14 Oct 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": []
+}
