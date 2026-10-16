@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-16T12:04:02.042421",
+  "github": [],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+          "title": "Bringing GPT-Rosalind to academic research labs",
+          "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+          "date": "Thu, 15 Oct 2026 19:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+          "title": "Teaching students to think and learn through questions",
+          "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+          "date": "Thu, 15 Oct 2026 13:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/sullivan-cromwell",
+          "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+          "link": "https://openai.com/index/sullivan-cromwell",
+          "date": "Thu, 15 Oct 2026 00:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": []
+}
