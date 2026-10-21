@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-21T12:40:37.684713",
+  "github": [],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/ted-taylor-restaurant",
+          "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+          "link": "https://openai.com/index/ted-taylor-restaurant",
+          "date": "Tue, 20 Oct 2026 10:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/terminal-x",
+          "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+          "link": "https://openai.com/index/terminal-x",
+          "date": "Tue, 20 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+          "title": "OpenAI acquires Orchestra Bio",
+          "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+          "date": "Tue, 20 Oct 2026 00:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": []
+}
