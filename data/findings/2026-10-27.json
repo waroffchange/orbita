@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-27T12:56:24.981784",
+  "github": [],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/greptile-code-review-codex-astra",
+          "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "link": "https://openai.com/index/greptile-code-review-codex-astra",
+          "date": "Mon, 26 Oct 2026 22:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "title": "Working with academic communities to build scientific understanding",
+          "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "date": "Mon, 26 Oct 2026 14:30:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+          "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+          "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+          "date": "Mon, 26 Oct 2026 13:45:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/chatgpt-expanding-world-of-work",
+          "title": "ChatGPT\u2019s expanding world of work",
+          "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
+          "date": "Mon, 26 Oct 2026 10:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/fanatics-streamline-fan-experience",
+          "title": "How Fanatics and OpenAI streamline the fan experience",
+          "link": "https://openai.com/index/fanatics-streamline-fan-experience",
+          "date": "Mon, 26 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/openai-cut-incident-investigation",
+          "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+          "link": "https://openai.com/index/openai-cut-incident-investigation",
+          "date": "Mon, 26 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/introducing-gpt-6-1-terra",
+          "title": "Introducing GPT-6.1 Terra",
+          "link": "https://openai.com/index/introducing-gpt-6-1-terra",
+          "date": "Mon, 26 Oct 2026 00:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": []
+}
