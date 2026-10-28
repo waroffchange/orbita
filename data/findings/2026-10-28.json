@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-28T13:47:24.874156",
+  "github": [],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+          "title": "Legora is building the agentic operating system for legal work",
+          "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+          "date": "Wed, 28 Oct 2026 09:30:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/oracle-apps-in-chatgpt",
+          "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+          "link": "https://openai.com/index/oracle-apps-in-chatgpt",
+          "date": "Tue, 27 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/check-point-daybreak",
+          "title": "How Check Point accelerates vulnerability research with Daybreak",
+          "link": "https://openai.com/index/check-point-daybreak",
+          "date": "Tue, 27 Oct 2026 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/anima",
+          "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+          "link": "https://openai.com/index/anima",
+          "date": "Fri, 23 Oct 2026 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/grupo-boticario",
+          "title": "How Grupo Botic\u00e1rio uses AI to strengthen human connections",
+          "link": "https://openai.com/index/grupo-boticario",
+          "date": "Fri, 16 Oct 2026 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/localiza-generative-ai",
+          "title": "How Localiza reorganized work around generative AI",
+          "link": "https://openai.com/index/localiza-generative-ai",
+          "date": "Fri, 16 Oct 2026 00:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": []
+}
