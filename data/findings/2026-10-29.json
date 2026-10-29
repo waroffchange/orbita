@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-29T13:54:29.088706",
+  "github": [],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/openai-servicenow-partnership-expansion",
+          "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+          "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+          "date": "Wed, 28 Oct 2026 13:15:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/the-future-of-the-firm",
+          "title": "The future of the firm",
+          "link": "https://openai.com/index/the-future-of-the-firm",
+          "date": "Wed, 28 Oct 2026 10:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/legora",
+          "title": "Legora is building the agentic operating system for legal work",
+          "link": "https://openai.com/index/legora",
+          "date": "Wed, 28 Oct 2026 09:30:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": []
+}
