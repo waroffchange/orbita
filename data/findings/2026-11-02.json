@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-02T16:47:05.820916",
+  "github": [],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/grid-protectors-program",
+          "title": "Introducing the Grid Protectors Program",
+          "link": "https://openai.com/index/grid-protectors-program",
+          "date": "Mon, 02 Nov 2026 15:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": []
+}
