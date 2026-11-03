@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-03T14:49:40.329044",
+  "github": [],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/heimstaden",
+          "title": "Heimstaden is changing residential real estate management with AI",
+          "link": "https://openai.com/index/heimstaden",
+          "date": "Tue, 03 Nov 2026 08:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/scaling-git-at-openai",
+          "title": "Scaling Git at OpenAI",
+          "link": "https://openai.com/index/scaling-git-at-openai",
+          "date": "Mon, 02 Nov 2026 15:30:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+          "title": "Preparing our next security sprint to harden OpenAI",
+          "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+          "date": "Mon, 02 Nov 2026 18:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+          "title": "Rewarding defenders with bigger bug bounties",
+          "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+          "date": "Mon, 02 Nov 2026 18:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/lifeval",
+          "title": "LifeVal",
+          "link": "https://openai.com/index/lifeval",
+          "date": "Mon, 02 Nov 2026 09:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/dan-driscoll-joins-openai",
+          "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+          "link": "https://openai.com/index/dan-driscoll-joins-openai",
+          "date": "Mon, 02 Nov 2026 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/qodo-codex-plugin",
+          "title": "Qodo builds context into AI code review with Codex",
+          "link": "https://openai.com/index/qodo-codex-plugin",
+          "date": "Mon, 02 Nov 2026 00:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": []
+}
