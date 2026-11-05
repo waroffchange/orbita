@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-05T15:07:49.532530",
+  "github": [],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+          "title": "Setting a new standard for responsible AI infrastructure",
+          "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+          "date": "Thu, 05 Nov 2026 02:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/daybreak-red-aws-govcloud",
+          "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+          "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+          "date": "Wed, 04 Nov 2026 07:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "title": "A thousand fewer paths to root",
+          "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "date": "Wed, 04 Nov 2026 08:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/introducing-images-2-6",
+          "title": "Introducing Images 2.6",
+          "link": "https://openai.com/index/introducing-images-2-6",
+          "date": "Wed, 04 Nov 2026 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/devrev-enterprise-self-service",
+          "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+          "link": "https://openai.com/index/devrev-enterprise-self-service",
+          "date": "Wed, 04 Nov 2026 00:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": []
+}
