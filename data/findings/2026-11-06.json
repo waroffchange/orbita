@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-06T14:45:18.278331",
+  "github": [],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/australian-universities-ai-native-graduates",
+          "title": "Australian universities are creating AI-native graduates",
+          "link": "https://openai.com/index/australian-universities-ai-native-graduates",
+          "date": "Thu, 05 Nov 2026 17:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/cultfit-builds-with-codex",
+          "title": "Cult.fit builds operational muscle with Codex",
+          "link": "https://openai.com/index/cultfit-builds-with-codex",
+          "date": "Thu, 05 Nov 2026 20:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/introducing-gpt-6-cyber",
+          "title": "GPT\u20116 Cyber: Advancing the frontier of aligned cybersecurity agents",
+          "link": "https://openai.com/index/introducing-gpt-6-cyber",
+          "date": "Thu, 05 Nov 2026 09:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/merge-builds-with-openai",
+          "title": "Merge builds product and business tools with OpenAI technology",
+          "link": "https://openai.com/index/merge-builds-with-openai",
+          "date": "Thu, 05 Nov 2026 08:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/ads/customers/flipsnack",
+          "title": "Flipsnack grows product signups with conversion optimization",
+          "link": "https://openai.com/ads/customers/flipsnack",
+          "date": "Thu, 05 Nov 2026 00:45:15 GMT"
+        },
+        {
+          "id": "https://openai.com/index/franklin-templeton",
+          "title": "Franklin Templeton uses OpenAI to support investment research",
+          "link": "https://openai.com/index/franklin-templeton",
+          "date": "Thu, 05 Nov 2026 00:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": []
+}
