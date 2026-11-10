@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-10T15:23:08.896986",
+  "github": [],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+          "title": "Helping caregivers use AI in everyday life",
+          "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+          "date": "Tue, 10 Nov 2026 12:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/closing-ai-guidance-gap-education",
+          "title": "Closing the AI guidance gap in education",
+          "link": "https://openai.com/index/closing-ai-guidance-gap-education",
+          "date": "Tue, 10 Nov 2026 09:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/ai-effect-on-freelance-work",
+          "title": "Work at the Frontier: AI\u2019s effect on freelance work",
+          "link": "https://openai.com/index/ai-effect-on-freelance-work",
+          "date": "Tue, 10 Nov 2026 07:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+          "title": "ChatGPT Enterprise now available in AWS Marketplace",
+          "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+          "date": "Mon, 09 Nov 2026 19:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/control-room",
+          "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+          "link": "https://openai.com/index/control-room",
+          "date": "Mon, 09 Nov 2026 13:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/coderabbit-codex-daybreak",
+          "title": "CodeRabbit scales agentic software development and ships 20x more",
+          "link": "https://openai.com/index/coderabbit-codex-daybreak",
+          "date": "Mon, 09 Nov 2026 08:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/kuken",
+          "title": "Kuken Industries searches 70 years of drawings in minutes",
+          "link": "https://openai.com/index/kuken",
+          "date": "Mon, 09 Nov 2026 08:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": []
+}
