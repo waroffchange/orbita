@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-12T15:44:13.637477",
+  "github": [],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/business/customer-stories/holidays-extras-codex",
+          "title": "Holiday Extras is rethinking what it can build with Codex",
+          "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
+          "date": "Thu, 12 Nov 2026 09:30:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/children-first-declaration",
+          "title": "Supporting research on AI and children\u2019s safety",
+          "link": "https://openai.com/index/children-first-declaration",
+          "date": "Thu, 12 Nov 2026 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/jiostar-vijay-seshadri",
+          "title": "JioStar\u2019s chief architect on AI discovery at 500M-user scale",
+          "link": "https://openai.com/index/jiostar-vijay-seshadri",
+          "date": "Wed, 11 Nov 2026 00:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": []
+}
