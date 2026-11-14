@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-14T13:55:12.235052",
+  "github": [],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/introducing-chatgpt-wallet",
+          "title": "Introducing ChatGPT Wallet",
+          "link": "https://openai.com/index/introducing-chatgpt-wallet",
+          "date": "Fri, 13 Nov 2026 15:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/business/customer-stories/shield",
+          "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+          "link": "https://openai.com/business/customer-stories/shield",
+          "date": "Fri, 13 Nov 2026 08:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": []
+}
