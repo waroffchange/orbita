@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-16T16:42:35.915453",
+  "github": [],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/lvmh-media-division-partnership",
+          "title": "LVMH\u2019s Media Division announces strategic partnership with OpenAI",
+          "link": "https://openai.com/index/lvmh-media-division-partnership",
+          "date": "Mon, 16 Nov 2026 09:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+          "title": "Advancing computer-use agents for healthcare teams",
+          "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+          "date": "Mon, 16 Nov 2026 06:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+          "title": "More ways to move care forward with ChatGPT for Healthcare",
+          "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+          "date": "Mon, 16 Nov 2026 06:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/the-kings-trust-and-openai",
+          "title": "The King\u2019s Trust and OpenAI launch \u00a31m partnership",
+          "link": "https://openai.com/index/the-kings-trust-and-openai",
+          "date": "Mon, 16 Nov 2026 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "title": "A step toward defining the Standard Model on a lattice",
+          "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "date": "Sun, 15 Nov 2026 22:00:01 GMT"
+        },
+        {
+          "id": "https://openai.com/index/our-new-blog-for-science",
+          "title": "Our new blog for science",
+          "link": "https://openai.com/index/our-new-blog-for-science",
+          "date": "Sun, 15 Nov 2026 22:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": []
+}
