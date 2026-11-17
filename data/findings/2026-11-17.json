@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-17T16:38:53.169136",
+  "github": [],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+          "title": "Strengthening NATO and allied cyber defenses with AI",
+          "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+          "date": "Tue, 17 Nov 2026 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/introducing-openai-for-chile",
+          "title": "Introducing OpenAI for Chile",
+          "link": "https://openai.com/index/introducing-openai-for-chile",
+          "date": "Tue, 17 Nov 2026 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+          "title": "Broadening access to AI for scientists",
+          "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+          "date": "Mon, 16 Nov 2026 17:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/strengthening-online-child-safety",
+          "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+          "link": "https://openai.com/index/strengthening-online-child-safety",
+          "date": "Mon, 16 Nov 2026 17:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/science-at-the-frontier",
+          "title": "Science at the Frontier: How scientists use ChatGPT",
+          "link": "https://openai.com/index/science-at-the-frontier",
+          "date": "Mon, 16 Nov 2026 12:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/business/customer-stories/revolut",
+          "title": "How Revolut raises ambition without lowering the bar",
+          "link": "https://openai.com/business/customer-stories/revolut",
+          "date": "Mon, 16 Nov 2026 09:30:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+          "title": "Our first phase of embedded assessments",
+          "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+          "date": "Mon, 16 Nov 2026 08:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/business/customer-stories/holiday-extras-dots",
+          "title": "At Holiday Extras, dots get to work before anyone asks",
+          "link": "https://openai.com/business/customer-stories/holiday-extras-dots",
+          "date": "Mon, 16 Nov 2026 00:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": []
+}
