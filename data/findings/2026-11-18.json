@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-18T16:08:00.411465",
+  "github": [],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+          "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+          "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+          "date": "Wed, 18 Nov 2026 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+          "title": "Introducing GPT-6.2 Astra and Sol",
+          "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+          "date": "Tue, 17 Nov 2026 17:45:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/introducing-chatgpt-for-sales",
+          "title": "Introducing ChatGPT for Sales",
+          "link": "https://openai.com/index/introducing-chatgpt-for-sales",
+          "date": "Tue, 17 Nov 2026 08:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/astra-law-6-2",
+          "title": "Astra for Law leads in legal intelligence",
+          "link": "https://openai.com/index/astra-law-6-2",
+          "date": "Tue, 17 Nov 2026 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+          "title": "ChatGPT Ads increases its market presence in 44 countries",
+          "link": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+          "date": "Thu, 12 Nov 2026 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/ads/customers/vistaprint",
+          "title": "How VistaPrint helps small businesses get the word out",
+          "link": "https://openai.com/ads/customers/vistaprint",
+          "date": "Mon, 09 Nov 2026 00:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": []
+}
