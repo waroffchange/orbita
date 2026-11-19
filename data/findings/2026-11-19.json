@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-19T16:15:36.374773",
+  "github": [],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/the-silent-consensus",
+          "title": "The Silent Consensus",
+          "link": "https://openai.com/index/the-silent-consensus",
+          "date": "Wed, 18 Nov 2026 10:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/research-acceleration-jagged-frontier",
+          "title": "Research acceleration: The jagged frontier",
+          "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+          "date": "Wed, 18 Nov 2026 08:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/business/customer-stories/sumitomo-life",
+          "title": "How Sumitomo Life\u2019s leaders helped teams adopt ChatGPT Enterprise",
+          "link": "https://openai.com/business/customer-stories/sumitomo-life",
+          "date": "Wed, 18 Nov 2026 08:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/inside-the-codex-sandbox",
+          "title": "Inside the Codex sandbox",
+          "link": "https://openai.com/index/inside-the-codex-sandbox",
+          "date": "Wed, 18 Nov 2026 08:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/managing-frontier-ai-risk",
+          "title": "Managing frontier AI risk: From training to deployment",
+          "link": "https://openai.com/index/managing-frontier-ai-risk",
+          "date": "Wed, 18 Nov 2026 06:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/advancing-chip-design-with-our-models",
+          "title": "Advancing chip design with OpenAI models",
+          "link": "https://openai.com/index/advancing-chip-design-with-our-models",
+          "date": "Wed, 18 Nov 2026 00:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": []
+}
