@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-21T15:03:29.450612",
+  "github": [],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": [
+        {
+          "id": "Introducing Hermes Enterprise on Microsoft Foundry: AI coworkers that are easy to use and easy to govern",
+          "title": "Introducing Hermes Enterprise on Microsoft Foundry: AI coworkers that are easy to use and easy to govern",
+          "link": "https://nousresearch.com/blog",
+          "date": ""
+        },
+        {
+          "id": "Cookbook: run Hermes Agent as a Microsoft Foundry autonomous agent",
+          "title": "Cookbook: run Hermes Agent as a Microsoft Foundry autonomous agent",
+          "link": "https://nousresearch.com/blog",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/combatting-adversarial-distillation",
+          "title": "Combatting adversarial distillation",
+          "link": "https://openai.com/index/combatting-adversarial-distillation",
+          "date": "Fri, 20 Nov 2026 10:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/business/customer-stories/hebbia",
+          "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+          "link": "https://openai.com/business/customer-stories/hebbia",
+          "date": "Fri, 20 Nov 2026 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/introducing-medchembench",
+          "title": "Can AI help scientists identify promising drug candidates?",
+          "link": "https://openai.com/index/introducing-medchembench",
+          "date": "Fri, 20 Nov 2026 00:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": []
+}
