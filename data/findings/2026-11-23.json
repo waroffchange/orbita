@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-23T18:56:25.603010",
+  "github": [],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/perplexity-and-intelligence",
+          "title": "Perplexity and Intelligence",
+          "link": "https://openai.com/index/perplexity-and-intelligence",
+          "date": "Sun, 22 Nov 2026 00:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": []
+}
