@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-24T18:35:29.476536",
+  "github": [],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/ifood",
+          "title": "How iFood scales coding agents across 15,000 repositories",
+          "link": "https://openai.com/index/ifood",
+          "date": "Tue, 24 Nov 2026 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/introducing-shirudo",
+          "title": "OpenAI and Cisco introduce Shirudo",
+          "link": "https://openai.com/index/introducing-shirudo",
+          "date": "Mon, 23 Nov 2026 21:20:00 GMT"
+        },
+        {
+          "id": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+          "title": "Connected intelligence for in-house legal",
+          "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+          "date": "Mon, 23 Nov 2026 08:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+          "title": "Richpanel helps companies automate 50% of support in 30 days",
+          "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+          "date": "Mon, 23 Nov 2026 08:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": []
+}
