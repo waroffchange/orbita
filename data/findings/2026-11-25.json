@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-25T17:46:02.174258",
+  "github": [],
+  "news": [
+    {
+      "url": "https://nousresearch.com/blog",
+      "new_items": []
+    },
+    {
+      "url": "https://openai.com/news/rss.xml",
+      "new_items": [
+        {
+          "id": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "date": "Tue, 24 Nov 2026 13:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/index/searching-for-distant-planets-with-astra",
+          "title": "Searching for distant planets with Astra",
+          "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+          "date": "Tue, 24 Nov 2026 11:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/business/customer-stories/intentful-dots",
+          "title": "How Intentful uses dots to make more time for growth",
+          "link": "https://openai.com/business/customer-stories/intentful-dots",
+          "date": "Tue, 24 Nov 2026 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/business/customer-stories/ifood",
+          "title": "How iFood scales coding agents across 15,000 repositories",
+          "link": "https://openai.com/business/customer-stories/ifood",
+          "date": "Tue, 24 Nov 2026 00:00:00 GMT"
+        },
+        {
+          "id": "https://openai.com/business/customer-stories/clay-plugins-openai",
+          "title": "Clay helps sales teams win with Codex and ChatGPT",
+          "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
+          "date": "Tue, 24 Nov 2026 00:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/news",
+      "new_items": []
+    }
+  ],
+  "trending": []
+}
